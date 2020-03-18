@@ -5,6 +5,7 @@ layout: default
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [sphinx](./sphinx/index.html).
+[Jekyll theme - Architect](https://pages-themes.github.io/modernist/)
 
 There should be whitespace between paragraphs.
 
