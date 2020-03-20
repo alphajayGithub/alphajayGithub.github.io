@@ -21,10 +21,39 @@
 import sys
 import os
 
+
+sys.path.insert(0, os.path.abspath('.'))
 sys.path.append(os.path.abspath('.extensions'))
+
+import sphinx_rtd_theme
+html_theme = "sphinx_rtd_theme"
+html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
+
+'''
+from recommonmark.parser import CommonMarkParser
+source_parsers = {
+    '.md': CommonMarkParser,
+}
+'''
 
 #locate index.rst, otherwise sphinx may find contents.rst as default
 master_doc = 'index'
+
+source_suffix = ['.rst', '.md']
+
+todo_include_todos=True
+
+# If true, sectionauthor and moduleauthor directives will be shown in the
+# output. They are ignored by default.
+show_authors = False
+highlight_language = 'cpp'
+# The name of the Pygments (syntax highlighting) style to use.
+pygments_style = 'sphinx'
+
+# The name of an image file (relative to this directory) to place at the top
+# of the sidebar.
+html_logo = '.static/logo.png'
+
 
 extensions = [
     'recommonmark',
@@ -45,31 +74,6 @@ try:
     extensions.append('sphinxcontrib.openapi')
 except ImportError:
     pass
-
-
-import sphinx_rtd_theme
-html_theme = "sphinx_rtd_theme"
-html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
-
-from recommonmark.parser import CommonMarkParser
-source_parsers = {
-    '.md': CommonMarkParser,
-}
-
-source_suffix = ['.rst', '.md']
-todo_include_todos=True
-
-# If true, sectionauthor and moduleauthor directives will be shown in the
-# output. They are ignored by default.
-show_authors = False
-highlight_language = 'cpp'
-# The name of the Pygments (syntax highlighting) style to use.
-pygments_style = 'sphinx'
-
-# The name of an image file (relative to this directory) to place at the top
-# of the sidebar.
-html_logo = '.static/logo.png'
-
 
 # -- Project information -----------------------------------------------------
 
