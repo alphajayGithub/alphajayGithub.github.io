@@ -10,11 +10,43 @@
 # add these directories to sys.path here. If the directory is relative to the
 # documentation root, use os.path.abspath to make it absolute, like shown here.
 #
-# import os
-# import sys
+#import os
+#import sys
 # sys.path.insert(0, os.path.abspath('.'))
 
 # -- yueshen add  -----------------------------------------------------
+# # If extensions (or modules to document with autodoc) are in another directory,
+# add these directories to sys.path here. If the directory is relative to the
+# documentation root, use os.path.abspath to make it absolute, like shown here.
+import sys
+import os
+import plantuml
+
+sys.path.append(os.path.abspath('.extensions'))
+
+#locate index.rst, otherwise sphinx may find contents.rst as default
+master_doc = 'index'
+
+extensions = [
+    'sphinx.ext.autodoc',
+    'sphinx.ext.intersphinx',
+    'sphinx.ext.todo',
+    'sphinx.ext.mathjax',
+    'sphinx.ext.ifconfig',
+    'sphinx.ext.graphviz',
+    'sphinx.ext.extlinks',
+    'sphinxcontrib.plantuml',
+    'doors.doors',
+    'pdf_export'
+]
+
+try:
+    import sphinxcontrib.openapi
+    extensions.append('sphinxcontrib.openapi')
+except ImportError:
+    pass
+
+
 import sphinx_rtd_theme
 html_theme = "sphinx_rtd_theme"
 html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
@@ -23,14 +55,25 @@ from recommonmark.parser import CommonMarkParser
 source_parsers = {
     '.md': CommonMarkParser,
 }
-source_suffix = ['.rst', '.md']
 
-master_doc = 'index'  #locate index.rst first, otherwise some sphinx find contents.rst as default
+source_suffix = ['.rst', '.md']
+todo_include_todos=True
+
+# If true, sectionauthor and moduleauthor directives will be shown in the
+# output. They are ignored by default.
+show_authors = False
+highlight_language = 'cpp'
+# The name of the Pygments (syntax highlighting) style to use.
+pygments_style = 'sphinx'
+
+# The name of an image file (relative to this directory) to place at the top
+# of the sidebar.
+html_logo = '.static/logo.png'
 
 
 # -- Project information -----------------------------------------------------
 
-project = 'readDocs'
+project = 'cleanMind'
 copyright = '2020, yueshen'
 author = 'yueshen'
 
@@ -43,11 +86,11 @@ release = '0.0.1'
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = [
-]
+#extensions = [
+#]
 
 # Add any paths that contain templates here, relative to this directory.
-templates_path = ['_templates']
+templates_path = ['.templates']
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
@@ -60,9 +103,23 @@ exclude_patterns = []
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-html_theme = 'alabaster'
+#html_theme = 'alabaster'
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
-html_static_path = ['_static']
+html_static_path = ['.static']
+
+# If not '', a 'Last updated on:' timestamp is inserted at every page bottom,
+# using the given strftime format.
+html_last_updated_fmt = '%b %d, %Y'
+
+
+# -- PlantUML configuration ------------------------------------------------
+
+path = os.path.abspath('.extensions/plantuml.jar')
+path = path.replace("\\","/")
+
+plantuml = 'java -jar %s' % path
+
+plantuml_output_format = 'svg'
