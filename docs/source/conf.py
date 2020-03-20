@@ -20,7 +20,6 @@
 # documentation root, use os.path.abspath to make it absolute, like shown here.
 import sys
 import os
-import plantuml
 
 sys.path.append(os.path.abspath('.extensions'))
 
@@ -28,6 +27,7 @@ sys.path.append(os.path.abspath('.extensions'))
 master_doc = 'index'
 
 extensions = [
+    'recommonmark',
     'sphinx.ext.autodoc',
     'sphinx.ext.intersphinx',
     'sphinx.ext.todo',
