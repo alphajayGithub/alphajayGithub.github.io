@@ -25,11 +25,6 @@ from subprocess import run
 current_run_path=os.getcwd()
 sphinx_project_path=os.path.abspath('..')
 sphinx_source_path=os.path.dirname(os.path.abspath(__file__))
-'''
-print("current_run_path is: " + current_run_path)
-print("sphinx_project_path is:  " + sphinx_project_path)
-print("sphinx_source_path is:  " + sphinx_source_paths)
-'''
 
 if  os.path.exists(".extensions"):
     sys.path.insert(0, os.path.abspath('.'))
@@ -37,11 +32,36 @@ if  os.path.exists(".extensions"):
     print("system path env is: \n" + str(sys.path))
 else:
     print("can't add extensions into path env")
-
+# ---------------------------------------------------------
 
 import sphinx_rtd_theme
 html_theme = "sphinx_rtd_theme"
 html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
+
+try:
+    import sphinxcontrib.plantuml
+    import sphinxcontrib.openapi
+except ImportError:
+    pipInstallCmd = ['sh','../requirement.sh']
+    run(pipInstallCmd)
+    #subprocess.run(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE, cwd = sphinx_source_path )
+    pass
+
+extensions = [
+    'recommonmark',
+    'sphinx.ext.autodoc',
+    'sphinx.ext.intersphinx',
+    'sphinx.ext.todo',
+    'sphinx.ext.mathjax',
+    'sphinx.ext.ifconfig',
+    'sphinx.ext.graphviz',
+    'sphinx.ext.extlinks',
+    'sphinxcontrib.plantuml',
+    'sphinxcontrib.openapi',
+    'doors.doors',
+    'pdf_export'
+]
+
 
 '''
 from recommonmark.parser import CommonMarkParser
@@ -50,16 +70,7 @@ source_parsers = {
 }
 '''
 
-try:
-    import sphinxcontrib.plantuml
-    import sphinxcontrib.openapi
-except ImportError:
-    run(['ls','-l'])
-    pipInstallCmd = ['sh','../requirement.sh']
-    run(pipInstallCmd)
-    #subprocess.run(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE, cwd = sphinx_source_path )
-    pass
-
+# ---------------------------------------------------------
 #locate index.rst, otherwise sphinx may find contents.rst as default
 master_doc = 'index'
 
@@ -77,21 +88,6 @@ pygments_style = 'sphinx'
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
 html_logo = '.static/logo.png'
-
-extensions = [
-    'recommonmark',
-    'sphinx.ext.autodoc',
-    'sphinx.ext.intersphinx',
-    'sphinx.ext.todo',
-    'sphinx.ext.mathjax',
-    'sphinx.ext.ifconfig',
-    'sphinx.ext.graphviz',
-    'sphinx.ext.extlinks',
-    'sphinxcontrib.plantuml',
-    'sphinxcontrib.openapi',
-#    'doors.doors',
-#    'pdf_export'
-]
 
 # -- Project information -----------------------------------------------------
 

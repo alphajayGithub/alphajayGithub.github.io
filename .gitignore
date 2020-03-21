@@ -1,5 +1,5 @@
 # Byte-compiled / optimized / DLL files
-__pycache__/
+__pycache__
 *.py[cod]
 
 # C extensions
@@ -76,3 +76,4 @@ node_modules
 
 .DS_Store
 alphajaygithubgithubio
+__pycache__
