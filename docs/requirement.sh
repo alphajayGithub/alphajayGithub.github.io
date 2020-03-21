@@ -1,2 +1,2 @@
 #! /bin/bash
-pip3 install plantuml sphinxcontrib-openapi sphinxcontrib-plantuml
+pip3 install sphinxcontrib-openapi sphinxcontrib-plantuml pdfkit
