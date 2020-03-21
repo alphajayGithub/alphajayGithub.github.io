@@ -13,7 +13,7 @@ Acceptance criteria template
 **Scenario:**
 
 Short description of the scenario
-    
+
 **Initial state (Given):**
 
 Description how to setup tested entity to prepare for the scenario
