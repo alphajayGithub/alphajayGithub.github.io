@@ -21,9 +21,19 @@
 import sys
 import os
 
-sys.path.insert(0, os.path.abspath('.'))
-sys.path.insert(1, os.path.abspath('.extensions'))
-sys.path
+print("current path is: " + os.getcwd())
+
+if (os.path.exists("docs")):
+    sys.path.insert(0, os.path.abspath('docs/source'))
+    sys.path.insert(1, os.path.abspath('docs/source/.extensions'))
+elif (os.path.exists("source")):
+    sys.path.insert(0, os.path.abspath('source'))
+    sys.path.insert(1, os.path.abspath('source/.extensions'))
+else:
+    sys.path.insert(0, os.path.abspath('.'))
+    sys.path.insert(1, os.path.abspath('.extensions'))
+
+print("system path env is: " + str(sys.path))
 
 import sphinx_rtd_theme
 html_theme = "sphinx_rtd_theme"
@@ -53,7 +63,6 @@ pygments_style = 'sphinx'
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
 html_logo = '.static/logo.png'
-
 
 extensions = [
     'recommonmark',
