@@ -20,20 +20,24 @@
 # documentation root, use os.path.abspath to make it absolute, like shown here.
 import sys
 import os
+from subprocess import run
 
-print("current path is: " + os.getcwd())
+current_run_path=os.getcwd()
+sphinx_project_path=os.path.abspath('..')
+sphinx_source_path=os.path.dirname(os.path.abspath(__file__))
+'''
+print("current_run_path is: " + current_run_path)
+print("sphinx_project_path is:  " + sphinx_project_path)
+print("sphinx_source_path is:  " + sphinx_source_paths)
+'''
 
-if (os.path.exists("docs")):
-    sys.path.insert(0, os.path.abspath('docs/source'))
-    sys.path.insert(1, os.path.abspath('docs/source/.extensions'))
-elif (os.path.exists("source")):
-    sys.path.insert(0, os.path.abspath('source'))
-    sys.path.insert(1, os.path.abspath('source/.extensions'))
-else:
+if  os.path.exists(".extensions"):
     sys.path.insert(0, os.path.abspath('.'))
     sys.path.insert(1, os.path.abspath('.extensions'))
+    print("system path env is: \n" + str(sys.path))
+else:
+    print("can't add extensions into path env")
 
-print("system path env is: " + str(sys.path))
 
 import sphinx_rtd_theme
 html_theme = "sphinx_rtd_theme"
@@ -45,6 +49,16 @@ source_parsers = {
     '.md': CommonMarkParser,
 }
 '''
+
+try:
+    import sphinxcontrib.plantuml
+    import sphinxcontrib.openapi
+except ImportError:
+    run(['ls','-l'])
+    pipInstallCmd = ['sh','../requirement.sh']
+    run(pipInstallCmd)
+    #subprocess.run(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE, cwd = sphinx_source_path )
+    pass
 
 #locate index.rst, otherwise sphinx may find contents.rst as default
 master_doc = 'index'
@@ -74,15 +88,10 @@ extensions = [
     'sphinx.ext.graphviz',
     'sphinx.ext.extlinks',
     'sphinxcontrib.plantuml',
-    'doors.doors',
-    'pdf_export'
+    'sphinxcontrib.openapi',
+#    'doors.doors',
+#    'pdf_export'
 ]
-
-try:
-    import sphinxcontrib.openapi
-    extensions.append('sphinxcontrib.openapi')
-except ImportError:
-    pass
 
 # -- Project information -----------------------------------------------------
 
