@@ -1,5 +1,10 @@
 # alphajayGithub.github.io
 
+Search: [google谷歌][1]  [baidu度娘][2]
+
+[1]: http://google.com/ "google"
+[2]: http://baidu.com/ "baidu"
+
 # h1
 ## h2
 ### h3
@@ -7,14 +12,11 @@
 ##### h5
 ###### h6
 
-Search: [google谷歌][1]  [baidu度娘][2]
 
 > 一级引用
 >> 二级引用
 >>> 三级引用
 
-[1]: http://google.com/ "google"
-[2]: http://baidu.com/ "baidu"
 
 ` console.log('talk is cheap, show me the code') `
 
