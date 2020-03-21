@@ -70,33 +70,33 @@ source_parsers = {
 }
 '''
 
-#https://www.kawabangga.com/posts/2331
+# https://blog.csdn.net/weixin_34342578/article/details/88589942
+
+latex_engine = 'xelatex'
 latex_elements = {
-# The paper size ('letterpaper' or 'a4paper').
-#'papersize': 'letterpaper',
-
-# The font size ('10pt', '11pt' or '12pt').
-#'pointsize': '10pt',
-
-# Additional stuff for the LaTeX preamble.
-#'preamble': '',
-'preamble': r'''
-\hypersetup{unicode=true}
-\usepackage{CJKutf8}
-\DeclareUnicodeCharacter{00A0}{\nobreakspace}
-\DeclareUnicodeCharacter{2203}{\ensuremath{\exists}}
-\DeclareUnicodeCharacter{2200}{\ensuremath{\forall}}
-\DeclareUnicodeCharacter{2286}{\ensuremath{\subseteq}}
-\DeclareUnicodeCharacter{2713}{x}
-\DeclareUnicodeCharacter{27FA}{\ensuremath{\Longleftrightarrow}}
-\DeclareUnicodeCharacter{221A}{\ensuremath{\sqrt{}}}
-\DeclareUnicodeCharacter{221B}{\ensuremath{\sqrt[3]{}}}
-\DeclareUnicodeCharacter{2295}{\ensuremath{\oplus}}
-\DeclareUnicodeCharacter{2297}{\ensuremath{\otimes}}
-\begin{CJK}{UTF8}{gbsn}
-\AtEndDocument{\end{CJK}}
-''',
+    'papersize': 'a4paper',
+    'pointsize': '11pt',
+    'preamble': r'''
+\usepackage{xeCJK}
+\setCJKmainfont[BoldFont=STZhongsong, ItalicFont=STKaiti]{STSong}
+\setCJKsansfont[BoldFont=STHeiti]{STXihei}
+\setCJKmonofont{STFangsong}
+\XeTeXlinebreaklocale "zh"
+\XeTeXlinebreakskip = 0pt plus 1pt
+\parindent 2em
+\definecolor{VerbatimColor}{rgb}{0.95,0.95,0.95}
+\setcounter{tocdepth}{3}
+\renewcommand\familydefault{\ttdefault}
+\renewcommand\CJKfamilydefault{\CJKrmdefault}
+'''
 }
+
+# https://stackoverflow.com/questions/55840739/how-does-readthedocs-generate-sphinx-html-from-rst-without-a-conf-py
+# make latex && cd build/latex && make == make latexpdf
+latex_documents = [
+    ('index', 'sphinx.tex', 'cleanMind',
+     'yueshen', 'manual', True),
+]
 
 # ---------------------------------------------------------
 #locate index.rst, otherwise sphinx may find contents.rst as default
@@ -124,7 +124,7 @@ copyright = '2020, yueshen'
 author = 'yueshen'
 
 # The full version, including alpha/beta/rc tags
-release = '0.0.1'
+release = '0.1.0'
 
 
 # -- General configuration ---------------------------------------------------
