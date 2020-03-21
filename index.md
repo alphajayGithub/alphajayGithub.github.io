@@ -4,17 +4,16 @@ layout: default
 
 # Site Info
 
-**Personal area for GTD practice**
-
-**Contact: alphajay@qq.com**
+> Personal area for GTD practice
+>
+>
 
 ## CleanMind
 
-> The project build in sphinx, and automation by ReadTheDoc
->
-> Enter the project of **[CleanMind]**(https://alphajaygithubgithubio.readthedocs.io/ "cleanMind")
->
->
+The project build in sphinx, and automation by ReadTheDoc
+
+Enter the project of [CleanMind](https://alphajaygithubgithubio.readthedocs.io/ "cleanMind")
+
 
 ## Markdown Demo
 
@@ -30,4 +29,7 @@ Github Page with [Jekyll](https://help.github.com/en/github/working-with-github-
 
 ```
 copyRight 2020@yueshen
+
+Contact: alphajay@qq.com
+
 ```

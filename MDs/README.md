@@ -1,6 +1,6 @@
 # alphajayGithub.github.io
 
-Search: [google谷歌][1]  [baidu度娘][2]
+Search:    [google谷歌][1]    [baidu度娘][2]
 
 [1]: http://google.com/ "google"
 [2]: http://baidu.com/ "baidu"
