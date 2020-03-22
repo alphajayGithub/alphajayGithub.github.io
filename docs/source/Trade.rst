@@ -6,5 +6,6 @@ Trade
 .. toctree::
     :maxdepth: 2
 
-    Trade/Resource
+    Trade/trade_quant.rst
+    Trade/trade_chan.rst
 
