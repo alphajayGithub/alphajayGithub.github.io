@@ -9,16 +9,18 @@ lv群主 - `简单缠 <http://blog.sina.com.cn/u/2384425442>`_
 
 **交易逻辑**
 
-清晰版
-.. image:: ../pic/缠友群1.jpg
+* 清晰版
 
-2师兄版
-.. image:: ../pic/缠友群2.jpg
+    .. image:: ../pic/缠友群1.jpg
+
+* 2师兄版
+
+    .. image:: ../pic/缠友群2.jpg
 
 **交易系统**
 
-.. image:: ../pic/缠中说禅机械化交易程序高清图.jpg
+    .. image:: ../pic/缠中说禅机械化交易程序高清图.jpg
 
 **执缠论股**
 
-.. image:: ../pic/缠中说禅_执缠论股二维码.jpg
+    .. image:: ../pic/缠中说禅_执缠论股二维码.jpg

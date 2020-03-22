@@ -12,7 +12,7 @@ layout: default
 
 The project build in sphinx, and automation by ReadTheDoc
 
-Enter the project of [CleanMind](https://alphajaygithubgithubio.readthedocs.io/ "cleanMind")
+Enter the project of [CleanMind](https://gtd.alphajay.online "cleanMind")
 
 
 ## Markdown Demo
