@@ -26,6 +26,8 @@ Python Doc framework [Sphinx](https://www.sphinx-doc.org/en/master/ "sphinx")
 
 Github Page with [Jekyll](https://help.github.com/en/github/working-with-github-pages/testing-your-github-pages-site-locally-with-jekyll "Testing your GitHub Pages site locally with Jekyll")
 
+Quick start [Sphinx + reST](https://www.cnblogs.com/zzqcn/p/5096876.html "Sphinx + reST")
+
 
 ```
 copyRight 2020@yueshen

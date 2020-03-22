@@ -117,6 +117,8 @@ pygments_style = 'sphinx'
 # of the sidebar.
 html_logo = '.static/logo.png'
 
+html_show_sourcelink = False
+
 # -- Project information -----------------------------------------------------
 
 project = 'cleanMind'
