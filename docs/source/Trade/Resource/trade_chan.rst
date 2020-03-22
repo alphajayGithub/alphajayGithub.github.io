@@ -9,11 +9,9 @@ lv群主 - `简单缠 <http://blog.sina.com.cn/u/2384425442>`_
 
 **交易逻辑**
 
-
-.. image:: ../pic/缠友群2.jpg
-
 .. image:: ../pic/缠友群1.jpg
 
+.. image:: ../pic/缠友群2.jpg
 
 **交易系统**
 
