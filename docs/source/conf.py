@@ -94,7 +94,7 @@ latex_elements = {
 # https://stackoverflow.com/questions/55840739/how-does-readthedocs-generate-sphinx-html-from-rst-without-a-conf-py
 # make latex && cd build/latex && make == make latexpdf
 latex_documents = [
-    ('index', 'sphinx.tex', 'cleanMind',
+    ('index', 'index.tex', 'cleanMind',
      'yueshen', 'manual', True),
 ]
 
