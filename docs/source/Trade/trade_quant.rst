@@ -1,5 +1,5 @@
 ========================================
-Quant量化宽客
+Quant量化交易
 ========================================
 
 
@@ -38,8 +38,12 @@ Quant量化宽客
 
 .. _斯坦福大学2014机器学习教程: http://www.ai-start.com/ml2014/
 
+`Foundations of Machine Learning <https://link.zhihu.com/?target=https%3A//cs.nyu.edu/~mohri/mlbook/>`_
 
-TWS related
+.. image:: http://www.cs.nyu.edu/~mohri/mlbook/10290_pptd.jpg
+
+
+IBKR TWS
 -----------------
 
 IB网研会_
