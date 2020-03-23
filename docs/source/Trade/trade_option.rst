@@ -10,6 +10,7 @@ Option期权
 `策略构造online <http://optioncreator.com/>`_
 `CBOE期权策略 <https://www.cboe.com/strategies>`_
 
+`六大策略玩转期权市场 <http://finance.sina.com.cn/option/knowledge/2019-04-24/doc-ihvhiewr7906850.shtml>`_
 
 
 
