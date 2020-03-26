@@ -10,9 +10,9 @@ Welcome to cleanMind！
    :maxdepth: 2
    :caption: CONTENT
 
-   Trade
    Health
-   Development
+   Trade
+   Tech
    Readme
 
 

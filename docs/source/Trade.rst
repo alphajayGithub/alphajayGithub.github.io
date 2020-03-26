@@ -9,5 +9,6 @@ Trade
     Trade/trade_quant.rst
     Trade/trade_chan.rst
     Trade/trade_option.rst
+    Trade/trade_forex.rst
     Trade/trade_data.rst
 
