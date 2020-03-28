@@ -1,5 +1,5 @@
 ========================================
-devTool开发工具
+K.I.S.S.
 ========================================
 
 
@@ -9,12 +9,9 @@ GTD Overview
 **Record**
 
 `mubu幕布 <https://mubu.com>`_
-
 `为知笔记 <http://www.wiz.cn/login>`_
-
 `oneNote <https://www.onenote.com/notebooks?session=8484ba90-9477-473c-99f4-b450f4e4f886>`_
-
-Xmind
+`Xmind <https://www.xmind.net/share/alphajay/>`_
 
 
 **Cloud**
@@ -24,18 +21,19 @@ Xmind
 `百度云 <https://pan.baidu.com/disk/home?>`_
 
 
+**Infos**
+
 `邮箱 <https://mail.qq.com>`_
 
 **阅读**
+
 微信公众号
 
 
 Project_Quant
 ------------------
 Python
-
 bigQuant
-
 233Course
 
 
@@ -52,3 +50,7 @@ Project_AI/ML/DL
 
 .. image:: pic/200326_DataScience2.png
 
+
+
+TODO:
+`视频博客Vlog指南 <https://www.williamlong.info/archives/5610.html>`_

@@ -10,9 +10,11 @@ Welcome to cleanMind！
    :maxdepth: 2
    :caption: CONTENT
 
-   Health
-   Trade
+
    Tech
+   Trade
+   Health
+   GTD
    Readme
 
 

@@ -30,7 +30,7 @@ Quick start [Sphinx + reST](https://www.cnblogs.com/zzqcn/p/5096876.html "Sphinx
 
 
 ```
-copyRight 2020@yueshen
+© copyRight 2020, yueshen
 
 Contact: alphajay@qq.com
 
