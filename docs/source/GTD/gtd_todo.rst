@@ -1,5 +1,5 @@
 ========================================
-Todo Flow
+GTD FLow
 ========================================
 
 
@@ -114,9 +114,13 @@ Types of tag        Content
 
 
 Link:
+
 `GetThingDone，一套最系统、最全面的时间管理方法 <https://www.jianshu.com/p/cfc85e11028d>`_
+
 `GTD with Todoist <https://get.todoist.help/hc/en-us/articles/203799792-Getting-Things-Done-GTD-with-Todoist>`_
+
 `用更现代的方式做任务管理 <https://sspai.com/post/39996>`_
+
 `视频讲解: todoist使用 <https://www.bilibili.com/video/av70161321/>`_
 
 

@@ -39,7 +39,7 @@ GTD Overview
 
 
 
-TODO:
+TODO
 ----------------------
 
 `视频博客Vlog指南 <https://www.williamlong.info/archives/5610.html>`_
