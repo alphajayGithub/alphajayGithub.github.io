@@ -11,4 +11,5 @@ Trade
     Trade/trade_option.rst
     Trade/trade_forex.rst
     Trade/trade_data.rst
+    Trade/trade_philosophy.rst
 

@@ -38,7 +38,9 @@ Data交易数据
 `保证金     <https://www.ftigers.com/trade_exchange_money.html#money1>`_
 `佣金      <https://www.ftigers.com/help_charge.html?chargeL=1>`_
 `订单      <https://www.ftigers.com/help_trade.html#trade3>`_
+`TWS教程   <https://www.ftigers.com/download_ib_help.html?tws=help>`_
 
+Note: 老虎期货账户默认支持期货/期货期权/股票期权, 通过IB账户管理可以进行查看
 
 外盘证券
 -----------------
@@ -111,3 +113,29 @@ Data交易数据
 
 .. image:: pic/200323_daytrader.jpg
 
+VIX
+-----------------
+
+VIX由S&P500 （标准普尔500指数）的成分股的期权波动性组成，且被广泛用来作为衡量市场风险和投资者恐慌度的指标。
+
+该类指数有三种：
+
+* VIX 跟踪S&P500         (Volatility Index S&P500  )
+* VXN跟踪Nasdaq 100成分股 (Volatility Index Nasdaq  )
+* VXD则跟踪道琼斯工业指数   (Volatility Index DowJones)
+
+    1993 年，芝加哥期权期货交易所 开始使用第一支VIX，仅仅从S&P100 里选出8只股票来做基础。
+    10年后，此范围扩大到S&P500。从而可以获得更大的准确性。
+
+    VIX指数（CBOT Volatility Index），即波动率指数，是由CBOT所编制，以S&P500指数期权的隐含波动率计算得来。
+    若隐含波动率高，则VIX指数也越高。该指数反映出投资者愿意付出多少成本去对冲投资风险。
+    因此，VIX广泛用于反映投资者对后市的恐慌程度，又称“恐慌指数”。
+    指数愈高，意味着投资者对股市状况感到不安；指数愈低，表示股票指数变动将趋缓。
+
+    参考指标通常有：^VIX ^VIF ^VIN VIX.HA V IX NZ
+
+
+沙场轶事
+-----------------
+
+`庄股好教材 <http://finance.sina.com.cn/stock/relnews/cn/2020-04-03/doc-iimxxsth3390537.shtml>`_
