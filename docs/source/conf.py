@@ -115,7 +115,7 @@ pygments_style = 'sphinx'
 
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
-html_logo = '.static/logo.png'
+html_logo = '.static/平头哥.png'
 
 html_show_sourcelink = False
 
