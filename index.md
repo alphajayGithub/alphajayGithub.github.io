@@ -10,7 +10,7 @@ Personal area for GTD practice.
 
 The project build in sphinx, and automation by ReadTheDoc
 
-Enter the project of [CleanMind](https://gtd.alphajay.online "cleanMind")
+Enter the project of [CleanMind](http://docs.alphajay.online "cleanMind")
 
 # Demos
 ## Markdown

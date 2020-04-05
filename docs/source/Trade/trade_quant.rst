@@ -8,3 +8,4 @@ Quant宽客
 
     quant/trade_quantLink.rst
     quant/trade_bigQuant.rst
+    quant/trade_quantPS.rst
