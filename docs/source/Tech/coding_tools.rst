@@ -2,6 +2,12 @@
 devTool
 ========================================
 
+
+QuickLink
+---------
+
+`OSChina在线工具 <https://tool.oschina.net/>`_
+
 Geek
 ---------
 

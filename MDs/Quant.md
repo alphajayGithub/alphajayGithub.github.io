@@ -1,3 +1,6 @@
+
+
+
 # 量化平台
 ## 国内量化平台：
 
@@ -32,13 +35,13 @@
 
 ## 相关平台：
 
-掘金量化 - 支持C/C++、C#、MATLAB、Python和R的量化交易平台
-DigQuant - 提供基于matlab量化工具
-SmartQuant - 策略交易平台
-OpenQuant - 基于C#的开源量化回测平台
-基于图表的量化交易平台 - 文华赢智 、TB、金字塔、MultiCharts 中国版 - 程序化交易软件、MT4、TradeStation
-Auto-Trader - 基于MATLAB的量化交易平台
-BotVS - 首家支持传统期货与股票证券与数字货币的量化平台
+* 掘金量化 - 支持C/C++、C#、MATLAB、Python和R的量化交易平台
+* DigQuant - 提供基于matlab量化工具
+* SmartQuant - 策略交易平台
+* OpenQuant - 基于C#的开源量化回测平台
+* 基于图表的量化交易平台 - 文华赢智 、TB、金字塔、MultiCharts 中国版 - 程序化交易软件、MT4、TradeStation
+* Auto-Trader - 基于MATLAB的量化交易平台
+* BotVS - 首家支持传统期货与股票证券与数字货币的量化平台
 
 ## 其他量化交易平台
 Progress Apama、龙软DTS、国泰安量化投资平台、飞创STP、易盛程序化交易、盛立SPT平台、天软量化回测平台 、量邦天语、EQB-Quant
@@ -78,11 +81,14 @@ Progress Apama、龙软DTS、国泰安量化投资平台、飞创STP、易盛程
 * 预测者网 - 收费
 * 巨潮资讯 - 收费
 * 通联数据商城 - 收费
-* 通达信 - **免费** 历史数据 - 文档 | BigQuant - **免费** 新浪、雅虎、东方财富网 - **免费** 聚合数据、数粮 、数据宝 - 收费
+* 通达信 - **免费** 历史数据 - 文档
+* BigQuant - **免费**
+* 新浪、雅虎、东方财富网 - **免费** 聚合数据、数粮 、数据宝 - 收费
 * manahl/arctic: High performance datastore for time series and tick data - 基于mongodb和python的高性能时间序列和tick数据存储
-* kdb | The Leader in High-Performance Tick Database Technology | Kx Systems - 收费的高性能金融序列数据库解决方案
+* Kx Systems - 收费的高性能金融序列数据库解决方案
 * MongoDB Blog - 用mongodb存储时间序列数据
-* InfluxDB – Time-Series Data Storage | InfluxData - Go写的分布式时间序列数据库
+* InfluxDB – Time-Series Data Storage
+* InfluxData - Go写的分布式时间序列数据库
 * OpenTSDB/opentsdb: A scalable, distributed Time Series Database. - 基于HBase的时间序列数据库
 * kairosdb/kairosdb: Fast scalable time series database - 基于Cassandra的时间序列数据库
 
@@ -101,13 +107,15 @@ Progress Apama、龙软DTS、国泰安量化投资平台、飞创STP、易盛程
 * http://tradingwithpython.blogspot.jp/
 * Coding the markets
 * Quantivity
-* Quant Mashup | Quantocracy
+* Quant Mashup
+* Quantocracy
 * On a long enough timeline the survival rate for everyone drops to zero
 * Keplerian Finance - exploring the boundaries of quantitative finance
 * The Journal of Trading: Home
 * All things finance and technology…
 * Quant News
-* Quantitative Trading Strategies | Numerical Method Inc.
+* Quantitative Trading Strategies
+* Numerical Method Inc.
 * Nuclear Phynance
 * Elite Trader
 * Meb Faber Research - Stock Market and Investing Blog
@@ -124,14 +132,17 @@ Progress Apama、龙软DTS、国泰安量化投资平台、飞创STP、易盛程
 * Quantitative Trading, Statistical Arbitrage, Machine Learning and Binary Options
 * Collective2 - The platform that connects investors with top-traders
 * Alvarez Quant Trading
-* The Marketplace For Algorithmic Trading Systems | Quantiacs
+* The Marketplace For Algorithmic Trading Systems
+* Quantiacs
 * Quantitative Finance
 * Quantopian Lectures
 * Kitces.com - Advancing Knowledge in Financial Planning
 * Forex Factory
 * The R Trader
 * How to be a Quant
-* 关于交易策略的机器学习
+
+关于交易策略的机器学习
+
 * scikit-learn: machine learning in Python
 * Paul Wilmott
 * The Trend is your Friend
@@ -181,7 +192,7 @@ Progress Apama、龙软DTS、国泰安量化投资平台、飞创STP、易盛程
 * vnpy - 基于python的开源交易平台开发框架
 * QuantBox/XAPI2 - 统一行情交易接口第2版
 * easytrader - 提供券商华泰/佣金宝/银河/广发/雪球的基金、股票自动程序化交易，量化交易组件
-* IB API | Interactive Brokers - 盈透证券的交易API
+* IB API  - Interactive Brokers - 盈透证券的交易API
 
 # 编程
 
@@ -192,17 +203,17 @@ Progress Apama、龙软DTS、国泰安量化投资平台、飞创STP、易盛程
 * Pycharm download
 * Python Extension Packages for Windows - Christoph Gohlke - Windows用户从这里可以下载许多python库的预编译包教程
 
-* Python | Codecademy
-* 用 Python 玩转数据 - 南京大学 | Coursera
+* Python - Codecademy
+* 用 Python 玩转数据 - 南京大学 from Coursera
 * Google 开源项目风格指南 (中文版)
 * 廖雪峰python教程
-* Introduction to Data Science in Python - University of Michigan | Coursera
+* Introduction to Data Science in Python - University of Michigan from  Coursera
 * The Python Tutorial
 * Python for Finance
 * Algorithmic Thinking - Python 算法思维训练
 * Python Cookbook 3rd Edition Documentation
 
-    ### 库
+### 库
 
 * Python Extension Packages for Windows
 * awesome-python: A curated list of awesome Python frameworks, libraries, software and resources
@@ -219,13 +230,13 @@ Progress Apama、龙软DTS、国泰安量化投资平台、飞创STP、易盛程
 
 * The Comprehensive R Archive Network - 从国内清华镜像下载安装
 * RStudio - R的常用开发平台下载
-    ### 教程
+### 教程
 
 * Free Introduction to R Programming Online Course - datacamp的在线学习
 * R Programming - 约翰霍普金斯大学 | Coursera
 * Intro to Computational Finance with R - 用R进行计算金融分析
 
-    ### 库
+### 库
 
 * CRAN Task View: Empirical Finance - CRAN官方的R金融相关包整理
 * qinwf/awesome-R: A curated list of awesome R packages, frameworks and software. - R包的awesome
@@ -239,7 +250,7 @@ C++程序设计 - 北京大学 郭炜
 面向对象程序设计（C++） - 清华大学 徐明星
 C++ Design Patterns and Derivatives Pricing - C++设计模式
 C++ reference - cppreference.com - 在线文档
-    ### 库
+### 库
 
 * fffaraz/awesome-cpp: A curated list of awesome C/C++ frameworks, libraries, resources, and shiny things. - C++库整理
 * rigtorp/awesome-modern-cpp: A collection of resources on modern C++ - 现代C++库整理
@@ -247,11 +258,11 @@ C++ reference - cppreference.com - 在线文档
 * libtrading/libtrading: Libtrading, an ultra low-latency trading connectivity library for C and C++.
 * Julia
 
-    ### 教程
+### 教程
 * Learning Julia - 官方整理
 * QUANTITATIVE ECONOMICS with Julia - 经济学诺奖获得者Thomas Sargent教你Julia在量化经济的应用。
 
-    ### 库
+### 库
 
 * Quantitative Finance in Julia - 多数为正在实现中，感兴趣的可以参与
 
@@ -263,8 +274,8 @@ C++ reference - cppreference.com - 在线文档
 * Github
 * 知乎 - 与世界分享你的知识、经验和见解
 ## 编程能力在线训练
-    ### LeetCode Online Judge - C, C++, Java, Python, C#, JavaScript, Ruby, Bash, MySQL在线编程训练
-    ### Solve Programming Questions | HackerRank - 包含常用语言(C++, Java, Python, Ruby, SQL)和相关计算机应用技术(算法、数据结构、数学、AI、Linux Shell、分布式系统、正则表达式、安全)的教程和挑战。
+### LeetCode Online Judge - C, C++, Java, Python, C#, JavaScript, Ruby, Bash, MySQL在线编程训练
+### Solve Programming Questions | HackerRank - 包含常用语言(C++, Java, Python, Ruby, SQL)和相关计算机应用技术(算法、数据结构、数学、AI、Linux Shell、分布式系统、正则表达式、安全)的教程和挑战。
 
 #Q uant Books
 
