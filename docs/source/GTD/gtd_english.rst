@@ -2,12 +2,19 @@
 e文
 ========================================
 
+QuickLink
+------------------
+
+`Jason杰森锅教程: <https://space.bilibili.com/47740818/#/video>`_
+`发音教程介绍 <https://mp.weixin.qq.com/s/9hneKMUn3QG1lC5Q0cT1ow>`_
+`Aboboo <https://www.aboboo.com/docs/>`_
+`EnglishPod(对话+主持人讲解文本 <https://www.aboboo.com/packages/package/2538/all/>`_
+
 
 听力
 ------------------
 
 `不出国如何练就一口流利的英语？ <https://www.zhihu.com/question/22968875/answer/454844693>`_
-
 
 首先要打破
 **一个常见的思维误区：国外待一年半载，英语就能学地呱呱叫？**
@@ -33,7 +40,7 @@ e文
     不是不可以，而是难度很可能不合适，效率低下，打击自信心，学没两天就放弃了。
 
 .. image:: pic/200329_englishLearn.jpg
-
+sdfYes, I know.Actually, I wanted to introduce myself.My personality is the.Bruster seemed to express myself.Okay, I want to try.
 
 * **精听**
 

@@ -230,10 +230,11 @@ Progress Apama、龙软DTS、国泰安量化投资平台、飞创STP、易盛程
 
 * The Comprehensive R Archive Network - 从国内清华镜像下载安装
 * RStudio - R的常用开发平台下载
+
 ### 教程
 
 * Free Introduction to R Programming Online Course - datacamp的在线学习
-* R Programming - 约翰霍普金斯大学 | Coursera
+* R Programming - 约翰霍普金斯大学 from Coursera
 * Intro to Computational Finance with R - 用R进行计算金融分析
 
 ### 库
@@ -274,7 +275,9 @@ C++ reference - cppreference.com - 在线文档
 * Github
 * 知乎 - 与世界分享你的知识、经验和见解
 ## 编程能力在线训练
+
 ### LeetCode Online Judge - C, C++, Java, Python, C#, JavaScript, Ruby, Bash, MySQL在线编程训练
+
 ### Solve Programming Questions | HackerRank - 包含常用语言(C++, Java, Python, Ruby, SQL)和相关计算机应用技术(算法、数据结构、数学、AI、Linux Shell、分布式系统、正则表达式、安全)的教程和挑战。
 
 #Q uant Books
