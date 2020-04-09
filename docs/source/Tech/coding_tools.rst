@@ -50,3 +50,5 @@ OS Based
 `Synergy：一套键盘鼠标同时控制多台电脑（全平台通用） <https://twocups.cn/index.php/2019/12/25/08/>`_
 
 `你和PPT高手之间，只差一个iSlide  <https://www.islide.cc/>`_
+
+`百度网盘速度提升 <https://github.com/CodeTips/BaiduNetdiskPlugin-macOS>`_ 
