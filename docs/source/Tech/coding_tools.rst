@@ -10,6 +10,16 @@ QuickLink
 
 `CloudConvert「online全能格式转换」 <https://zhuanlan.zhihu.com/p/65544057>`_
 
+ `devDocs文档网站 <https://devdocs.io/cpp>`_ 
+
+C++
+
+    `cPlusPLus.com: <http://www.cplusplus.com/>`_ 
+    `SplitTopic  <http://www.cplusplus.com/faq/sequences/strings/split/>`_ 
+
+    `cppRefrence <en.cppreference.com>`_ 
+  
+
 Geek
 ---------
 
