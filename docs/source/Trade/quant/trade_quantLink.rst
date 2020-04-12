@@ -7,6 +7,12 @@ QuantLink
 
 `为炒股而编程的Python程序员 <https://mp.weixin.qq.com/s/x4LxAyzQwYoQpcXKT1o1aQ>`_
 
+`Tushare Pro 文档 <http://tushare.org/trading.html>`_ 
+
+`获取股票价格和实时市值 <https://zhuanlan.zhihu.com/p/112117859>`_ 
+
+`Python XlsxWriter模块中文文档参考 <http://mrdoc.zmister.com/project-18/>`_ 
+
 指标公式
 -----------------
 
@@ -50,7 +56,7 @@ CIIA 认证考试
 `宏观经济Overview <https://mp.weixin.qq.com/s/wfOiZHo9yg0iGeZbNEj-BQ>`_
 
 
-AI/ML Full Stack Software Engineer
+Jobs
 ------------------------------------
 AI/ML - Full Stack Software Engineer
 Apple – Beijing, China
