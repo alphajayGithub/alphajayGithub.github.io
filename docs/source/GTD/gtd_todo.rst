@@ -115,6 +115,8 @@ Types of tag        Content
 
 Link:
 
+`[精]Topbook-科学地认识和使用GTD <https://zhuanlan.zhihu.com/p/90700594>`_
+
 `GetThingDone，一套最系统、最全面的时间管理方法 <https://www.jianshu.com/p/cfc85e11028d>`_
 
 `GTD with Todoist <https://get.todoist.help/hc/en-us/articles/203799792-Getting-Things-Done-GTD-with-Todoist>`_
