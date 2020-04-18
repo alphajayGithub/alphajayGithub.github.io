@@ -41,3 +41,15 @@ Interview
 ---------
 
 `面试-聊天谈判和博弈 <https://mp.weixin.qq.com/s/dSmWE-YMebpbRIpYRrHqDA>`_
+
+
+Coding
+----------
+
+`微软Python编程入门 <https://www.bilibili.com/video/BV187411f7z9>`_
+
+    老师分别是来自微软的两名员工，一位是任职于商务部的 Susan Ibach，另一位则是产品经理兼网站开发工程师 Christopher Harrison。
+
+    对当下 Python 衍生出来的行业都有着其独特认识，也都有着扎实的编程功底。
+
+    这门课程非常适合刚入编程行业的小萌新，因为从这里面，你不仅可以学到 Python 的基础语法知识，还能了解到当下比较火的一些开发工具以及实际应用场景。

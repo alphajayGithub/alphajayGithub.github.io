@@ -37,6 +37,39 @@ online Coder
 
     `GCC交互式编译器,显示汇编输出 <https://gcc.godbolt.org/>`_
 
+online Programming Game
+
+`LintCode <https://www.lintcode.com>`_
+
+    LintCode 是面向求职的编程刷题网站，收集了最常见、最高频的编程题目，还提供Google、蚂蚁金服的内推资格。比其他的一些网站，
+
+    LintCode：有模拟面试专栏，精选 Facebook, Amazon, Google, Linkedin 等IT企业的面试题，真实还原面试流程，适合求职者。
+
+    编程挑战覆盖领域更多，包括算法、数据结构，人工智能，系统设计等。自己举办的编程比赛，很多算法爱好者会在这里PK，切磋技艺。
+
+`Codewars <https://www.codewars.com>`_
+
+    Codewars让你在在战斗中进行学习，支持JavaScript、Python、C#、Java、Python等语言。
+
+    用游戏化的方法来联系编码和解决算法挑战。
+
+    最重要的是，在codewars，你可以看到别人提交的解决方案，这是你提升编程技术的好方法，很多平台做不到这一点。
+
+`CodinGame <https://www.codingame.com>`_
+
+    CodinGame很特别，和一些竞争性编程网站有所不同，它不是简单地通过生成一组输出来实现编程挑战，而是以玩游戏的方式通过在线编程完成相应挑战。
+
+    有些游戏非常有趣，并且游戏界面和图形设计非常精美。
+
+`Vim Adventures <https://vim-adventures.com>`_
+
+    Vim Adventures是一个游戏式教程，用于学习如何使用Vim，作为一个功能强大的文本编辑器，很多程序员喜欢使用。
+
+    它有一个巨大的学习曲线，帮助你循序渐进地提升。
+
+    虽然Vim本身并不是一种编程语言，但掌握Vim可以帮助你成为一个更有效的coder。
+
+
 online vsCode editor
 
     `microsoft/monaco-editor <https://github.com/microsoft/monaco-editor>`_
