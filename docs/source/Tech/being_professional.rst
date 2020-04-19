@@ -32,10 +32,26 @@ Professional
 `Foundations of Machine Learning <https://link.zhihu.com/?target=https%3A//cs.nyu.edu/~mohri/mlbook/>`_
 
 
+Leetcode
+---------
+
+`算法到底应该怎么学？ <https://www.zhihu.com/question/25693637/answer/747872819>`_
+
+`LeetCode按照怎样的顺序来刷题比较好 <https://www.zhihu.com/question/36738189/answer/864005192>`_
+
+`机器学习算法的应用场景  <https://www.zhihu.com/question/26726794/answer/1048590114>`_
+
+math
+---------
+
+`武忠祥-考研高数 <https://www.bilibili.com/video/BV1o54y1X71t>`_
+
 Github
 ---------
+
 `Github计算机专业课程 <https://zhuanlan.zhihu.com/p/113820077>`_
 
+`霸榜 GitHub：去你丫的算法！ <https://zhuanlan.zhihu.com/p/128104369>`_
 
 Interview
 ---------

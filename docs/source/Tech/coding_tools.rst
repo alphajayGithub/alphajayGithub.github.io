@@ -108,6 +108,10 @@ OS Based
 `怎么把Mac配置成一台顺手的开发工具 <https://www.zhihu.com/question/27617980/answer/919642075#showWechatShareTip>`_
 `效率神器Alfred教程 <https://www.jianshu.com/p/cf16b2c973e9>`_
 
+`Mac有哪些好用的软件？ <https://www.zhihu.com/question/35251600/answer/750994319>`_
+
+`Mac有哪些必备软件? <https://www.zhihu.com/question/282279461/answer/1055156811>`_
+
 **WINDOWS**
 
 `Windows10下使用WSL2+Docker+Terminal+VSCode开发 <https://zhuanlan.zhihu.com/p/104771275>`_
