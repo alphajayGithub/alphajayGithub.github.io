@@ -77,3 +77,35 @@ Github上位名叫骆昊 (jackfrued) 的资深程序员，为大家规划了一�
 高级-大数据挖掘之互联网金融风控模型：http://t.kuick.cn/RAKD
 数据分析方法论：http://t.kuick.cn/RAKk
 期待你学以致用，好运相伴
+
+
+`怎样搜索百度云盘上的资源？ <https://www.zhihu.com/question/50011701/answer/136661867>`_
+
+
+设计模式
+-------------
+
+`[精]学不会设计模式，是因为你还没用过这个神奇的网站！ <https://zhuanlan.zhihu.com/p/134050236>`_
+
+`Java设计模式 <https://www.liaoxuefeng.com/wiki/1252599548343744/1264742167474528>`_
+
+https://refactoring.guru/
+https://refactoringguru.cn/design-patterns/catalog
+
+
+
+这是国外的一个网站，建立的初衷，是帮助开发者以更为简单便捷的方式，迅速掌握各个设计模式的学习。
+
+Refactoring Guru 上面共拥有 22 种设计模式及 8 条原则的详细讲解：
+
+.. image:: https://pic4.zhimg.com/80/v2-befe806fd5718ec30c15b2c519f3bcdb_1440w.jpg
+
+每个设计模式都对应配有一篇图文并茂的文章，让开发者可以很轻松的搞懂每个设计模式的具体工作原理：
+
+.. image:: https://pic3.zhimg.com/80/v2-527d5ccef9004ee9ec6c1d674f1a4b4e_1440w.jpg
+
+如果你需要可离线阅读的电子版，平台上也有提供相应的购买入口。
+
+总的来说，作者还是非常良心的，如果你想学好设计模式，利用该网站上所有免费开放的学习资源，应该可以很快就把设计模式学好。
+
+这种图文并茂 + 代码示例的学习方式，也极大了加深了开发者对知识的吸收。
