@@ -35,8 +35,16 @@ https://kite.com/python/docs/xml.dom.minidom.Document.toprettyxml
 
 
 
+Programming
+-------------------
 
+`[精]Python3 library Doc标准库文档 <https://docs.python.org/3/library/index.html>`_
 
+`[精]Python Cookbook <https://python3-cookbook.readthedocs.io/zh_CN/latest/>`_
+
+`RUNOOB廖雪峰打磨出价值1980的数据分析教程 <https://www.runoob.com/w3cnote/linux-kkb-2.html>`_
+
+`普通程序员如何正确学习人工智能方向的知识？ <https://www.zhihu.com/question/51039416/answer/134564100>`_
 
 alfred
 ------------------
