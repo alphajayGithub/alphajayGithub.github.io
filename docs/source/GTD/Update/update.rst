@@ -46,6 +46,13 @@ Programming
 
 `普通程序员如何正确学习人工智能方向的知识？ <https://www.zhihu.com/question/51039416/answer/134564100>`_
 
+Boost相关
+
+`www.boost.org <https://www.boost.org/>`_
+
+`Boost C++ 库 <http://zh.highscore.de/cpp/boost/>`_
+
+
 alfred
 ------------------
 
@@ -59,7 +66,7 @@ www.alfredapp.com
 alfredworkflow.com
 
 
-
+`孔令贤 - Github 项目与 Travis CI 集成 <https://lingxiankong.github.io/2018-06-28-travis-ci-integration.html>`_
 
 `GitHub上最牛逼的10个Java项目 <https://zhuanlan.zhihu.com/p/120913117>`_
 
@@ -88,6 +95,8 @@ Github上位名叫骆昊 (jackfrued) 的资深程序员，为大家规划了一�
 
 
 `怎样搜索百度云盘上的资源？ <https://www.zhihu.com/question/50011701/answer/136661867>`_
+
+`阿里云DDNS 外网访问内网资源 <https://github.com/wulimaxh/Aliyun-DDNS>`_
 
 
 设计模式
