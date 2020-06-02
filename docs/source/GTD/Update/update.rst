@@ -2,7 +2,38 @@
 Update
 ========================================
 
-QuickLink
+
+TODOList:
+
+理清task和思绪, 聚焦交易
+1 理清账户资金
+2 各种复盘  期权  期货股票
+3 聚焦在交易
+
+
+
+
+
+金融
+------------------
+[精]一文看懂财务三张表
+https://mp.weixin.qq.com/s/hUZDpc6vJ57DRoiQK3_hcQ
+
+* 公众号阅读
+看懂龙头股
+xx早餐 and 涨停板复盘  -> 找复盘公众号  每天看盘 知道哪些票 不管实盘还是模拟盘 通过持续打板跟紧市场
+
+TODO: 临时方案:  公众号阅读 用ipad 微信读书
+
+
+书单
+------------------
+樊登推荐:
+终结拖延症
+次第花开  佛经相关
+
+
+学习力
 ------------------
 
 `[精]学霸学累了会干什么？ <https://www.zhihu.com/question/311425277/answer/1160216425>`_
@@ -24,6 +55,78 @@ QuickLink
 Speak
 .. image:: https://pic2.zhimg.com/80/v2-67f749e61ead7694f24c9cbd7345e5ff_1440w.jpg
 
+
+`学习力 - 超强的学习能力是怎样练就的？ <https://www.zhihu.com/question/35103080/answer/1234326450>`_
+
+保持记忆力
+https://www.zhihu.com/question/20352045/answer/1241835660
+突然学习动力
+https://www.zhihu.com/question/369033564/answer/1213853363
+
+
+
+EQ 情商 趣味 异性
+---------------------------------------
+
+和女生聊天，哪些话题百试不爽？
+https://www.zhihu.com/question/304197205/answer/1223129327
+
+
+
+
+休闲穿衣店铺推荐
+---------------------------------------
+
+https://www.zhihu.com/question/394037020/answer/1243018398
+
+
+身体健康
+--------------------------------------
+营养健康的早餐？ 麦片 三明治
+https://www.zhihu.com/question/293165403/answer/1237222463
+TODO:  给自己一个21天的美味早餐计划  from 简书  懒饭APP
+
+
+跳绳与跑步
+https://zhuanlan.zhihu.com/p/123944475
+
+跳绳
+https://www.zhihu.com/question/46480327/answer/837462810
+
+心理健康
+--------------------------------------
+怎么才能让自己变得自信
+https://www.zhihu.com/question/285016330/answer/1116960920
+
+焦虑
+https://www.zhihu.com/question/322666481/answer/1029882004
+
+* 佛经
+
+十二因缘详解
+https://zhuanlan.zhihu.com/p/27166915
+
+.. image:: https://pic3.zhimg.com/80/v2-4d838c5040ef3b45be206d1fac76d77e_1440w.jpg
+
+静坐的方法
+https://zhuanlan.zhihu.com/p/51537159
+
+
+Music
+---------------------------------------
+如何扒歌
+https://www.zhihu.com/question/339384991/answer/1161270631
+吉他基本功
+https://www.zhihu.com/question/389876898/answer/1245406359
+
+搭建NAS服务器 - Open Media Vault
+---------------------------------------
+
+https://www.zhihu.com/question/21359049/answer/588579088
+
+https://zhuanlan.zhihu.com/p/35654822
+
+TODO: 存小孩视频  + WX公众号 爬虫网站(服务器github 假一个公众号阅读的服务)
 
 量化
 ---------------------------------------
@@ -119,6 +222,15 @@ Fucking Algorithm，开源自成都一位算法工程师，在该项目上面，
 [精]有关于设计模式的workshop
 https://refactoringguru.cn/design-patterns/catalog
 https://www.liaoxuefeng.com/wiki/1252599548343744/1264742167474528
+
+
+为什么字节跳动的前端面试需要那么难的算法题？
+https://www.zhihu.com/question/394945080/answer/1238104781
+
+不把《剑指offer》刷一遍，leetcode 刷个一两百道常见题你就敢去面试大厂，还以为是 5 年前嘛，就只考你个快排，归并之类的，程序员这几年太多了，就各种手段卡你呗，说不内卷那也是不可能的。
+我之前也是温水煮青蛙，出去面试了才被教各种做人！比如之前面试某 AI 独角兽前两面几乎就是全程算法题，都没怎么问别的，你不准备的话几乎是 100%要挂掉。
+从我之前的面试经验来看，这几年算法面试难度明显提高。不光大厂，甚至很多中小厂也是直接 leetcode 原题，运气好问你个 easy 的，运气不好甚至直接 medium/hard 起。
+大厂面试风格越来越像北美公司看齐。
 
 
 
