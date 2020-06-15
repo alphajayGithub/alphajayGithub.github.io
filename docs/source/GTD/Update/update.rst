@@ -12,8 +12,6 @@ TODOList:
 
 
 
-
-
 金融
 ------------------
 [精]一文看懂财务三张表
@@ -26,15 +24,122 @@ xx早餐 and 涨停板复盘  -> 找复盘公众号  每天看盘 知道哪些�
 TODO: 临时方案:  公众号阅读 用ipad 微信读书
 
 
+
+Reference - Links
+------------------
+医学微视 - 各种专家解释(看看专家怎么说)
+https://www.mvyxws.com/
+
+alternativeto
+https://alternativeto.net/
+正在找免费的来替代收费软件?
+帮你省钱的黑科技网站，找到市面上几乎所有付费软件的替代软件！
+
+抑郁症
+------------------------------------
+
+抑郁症好了
+https://www.zhihu.com/question/307574565/answer/571450794
+
+https://zhuanlan.zhihu.com/p/76552670
+
+https://www.zhihu.com/question/28514952/answer/546768051
+
+https://www.zhihu.com/question/30111389/answer/940874722
+
+https://www.zhihu.com/question/301993591/answer/788267878
+
+不断压抑自己
+https://www.zhihu.com/question/308275920/answer/1124814640
+
+抑郁症更“偏爱”哪类人？
+抑郁症的高发人群包括：
+① 爱走极端，总是没有安全感的人；
+② 患有绝症且精神处于崩溃边缘的人；
+③ 缺乏运动，长期睡眠不足的人；
+④ 太过听从他人安排，屈从迁就的人；
+⑤ 突遭人生巨变，或接二连三遭遇不幸的人；
+⑥ 长期过度自省的人，自我评价过低，总是觉得自己不够好，不完美，不如他人；
+⑦ 生活单一、枯燥没有激情，低频率社交的人，也就是经常很宅，愿意独处的人；曾经被社会“抛弃”的人。
+
+如何正确地改变内向敏感的性格？
+https://www.zhihu.com/question/32065881/answer/61341263
+
+
+关于拖延症和自律:
+拖延重、不自律、爱幻想高估自己怎么办?
+https://zhuanlan.zhihu.com/p/112205472
+
+你每天读书、健身、早睡早起，真的不是在自律
+https://zhuanlan.zhihu.com/p/38251783
+
+喜欢拖延或者缺乏行动力的人，不要找借口
+https://zhuanlan.zhihu.com/p/80340685
+
+
+
+有趣 幸福 情商的人
+------------------------------------
+有哪些事是谈过多次恋爱才明白的? - 石莉不允许的回答 - 知乎
+https://www.zhihu.com/question/55783301/answer/1237992729
+
+情商高的表现
+https://www.zhihu.com/question/294940846/answer/1235324298
+
+[精]明白了哪几个基本原理之后而厨艺大增的？
+https://www.zhihu.com/question/21696230/answer/387147576
+
+
 书单
 ------------------
 樊登推荐:
 终结拖延症
 次第花开  佛经相关
+掌控 张展晖
+
+《掌控》里的那些跑步误区与纠正
+
+
+如何看待樊登读书会？
+https://www.zhihu.com/question/52509561/answer/1230001839
+
+问你个问题：你觉得抖音第一网红是谁？
+你可能会说：李佳琦、薇娅、罗永浩等等。
+但我告诉你正确的答案是：樊登。
+
+
+育儿
+------------------
+什么样的家庭才能培养出开朗自信的孩子？
+https://www.zhihu.com/question/312630715/answer/632036193
+
+
+作为家长，你有过哪些扼杀宝宝想象力的举动、行为？
+https://www.zhihu.com/question/316039276/answer/637956130
+
+
+有哪些真正有用的育儿书籍？
+https://www.zhihu.com/question/65186106/answer/638278566
+
+
 
 
 学习力
 ------------------
+
+[精]厉害的人遇到问题时的思维模式与普通人之间差别在哪？
+https://www.zhihu.com/question/301459876/answer/1193305648
+
+说到厉害的人，不能不提一下我的博士导师！
+她英、德、法、日、汉语都 6 到不行，一开口就是跨国会议；她是行业里的大牛，她的论文思路密不透风、随时开脑洞、动不动就跨领域，读着读着膝盖就软了。
+
+通过平时的接触（被训），我暗搓搓地观察她的思维特点，总结成三点；暂且命名为“一线城市思维优化系统”，名字奇葩又好记，而且它让我的思维模式飞升了不是一点点：
+1、上：思维由被动上升到主动
+2、广：打开思维广度
+3、深：加强思维深度
+你可以整套拿走，或者挑选一两个填充你自己的思维体系。
+最重要的是：配合自身思考服用！
+
 
 `[精]学霸学累了会干什么？ <https://www.zhihu.com/question/311425277/answer/1160216425>`_
 
@@ -63,6 +168,14 @@ https://www.zhihu.com/question/20352045/answer/1241835660
 突然学习动力
 https://www.zhihu.com/question/369033564/answer/1213853363
 
+
+逻辑思维不足
+https://www.zhihu.com/question/351570888/answer/880188510
+
+进阶篇：
+《金字塔原理》
+《学会提问》
+《思考的技术》
 
 
 EQ 情商 趣味 异性
@@ -202,8 +315,39 @@ https://www.zhihu.com/question/353341563/answer/916467978
 https://zhuanlan.zhihu.com/p/59510165
 
 
+摄影
+------------------
+摄影中的快门、光圈、ISO到底是什么关系？
+https://zhuanlan.zhihu.com/p/29055201
+
+如何理解 ISO、快门、光圈、曝光这几个概念？
+https://www.zhihu.com/question/21427664
+
+
+
 Algorithm算法
 ------------------
+
+目录：
+高数类UP：
+1.3Blue1Brown (动画演示数学）
+2.宋浩老师官方（幽默有趣且详细）
+3.高数叔（偏重基础）
+英语类UP:
+1.FanfaniShare（偏重英语口语）
+2.A路人（偏重英语语法）
+物理类UP:
+
+1.物理系的允文君 (放学给你补课的复旦学长）
+软件学习类UP:
+1.oeasy (全能软件UP主）
+2.旁门左道PPT （侧重PPT设计思维与方法）
+学习与生活经验分享类UP：
+1.小圆脸Paprika（推书狂魔）
+2.蜡笔与小勋（边撒狗粮，边教学习方法的学霸情侣）
+3.在下小苏（分享大学生活规划的小姐姐）
+
+From <https://www.zhihu.com/question/65864525/answer/1253409860>
 
 `霸榜 GitHub：去你丫的算法 <https://zhuanlan.zhihu.com/p/128104369>`_
 `labuladong/fucking-algorithm <https://github.com/labuladong/fucking-algorithm>`_
@@ -232,6 +376,9 @@ https://www.zhihu.com/question/394945080/answer/1238104781
 从我之前的面试经验来看，这几年算法面试难度明显提高。不光大厂，甚至很多中小厂也是直接 leetcode 原题，运气好问你个 easy 的，运气不好甚至直接 medium/hard 起。
 大厂面试风格越来越像北美公司看齐。
 
+
+动态规划
+https://www.zhihu.com/question/23995189/answer/1160796300
 
 
 alfred
@@ -326,6 +473,11 @@ Refactoring Guru 上面共拥有 22 种设计模式及 8 条原则的详细讲�
 
 这种图文并茂 + 代码示例的学习方式，也极大了加深了开发者对知识的吸收。
 
+技术小结
+-------------
+困扰了已久的TCP/IP 协议，终于有人讲的明明白白，太强了
+https://zhuanlan.zhihu.com/p/143406591
+
 
 其它
 ----------------
@@ -363,3 +515,14 @@ https://www.zhihu.com/question/366915371/answer/1015875465
 https://www.zhihu.com/question/30173526/answer/501945797
 
 
+100行Python代码实现一款高精度免费OCR工具
+https://zhuanlan.zhihu.com/p/145449299
+
+Textshot这个OCR项目虽然只有短短的139行代码，但是，却涉及Python中多个方面的知识应用，
+UI开发
+截图工具开发
+后端引擎调用
+
+通过这短短的项目，你不仅可以了解如何利用PyQt5实现一个用户界面，还可以学会如何使用pyscreenshot开发一款自己的截图工具。此外，还能够学会后端tesseract的调用。
+
+换句话说，这短短的139行代码囊括了前端至后端的整个流程，而且涉及到截图和OCR两款工具的衔接。因此，Textshot虽然工程不大，却是一个非常完备、值得学习的项目。
