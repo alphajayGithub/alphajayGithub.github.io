@@ -214,6 +214,11 @@ https://www.zhihu.com/question/285016330/answer/1116960920
 焦虑
 https://www.zhihu.com/question/322666481/answer/1029882004
 
+
+[精]一个不断压抑自己的人最终会怎么样？ - 申晨煜的回答 - 知乎
+https://www.zhihu.com/question/308275920/answer/1267306518
+
+
 * 佛经
 
 十二因缘详解
@@ -223,6 +228,9 @@ https://zhuanlan.zhihu.com/p/27166915
 
 静坐的方法
 https://zhuanlan.zhihu.com/p/51537159
+
+《我们误解了这个世界》济群法师对话周国平
+http://bodhi.takungpao.com/books/q/2015/1204/3248903.html
 
 
 Music
@@ -254,7 +262,7 @@ https://docs.python.org/3/library
 
 https://kite.com/python/docs/xml.dom.minidom.Document.toprettyxml
 
-
+李玫瑾教授视频合集
 
 Programming
 -------------------

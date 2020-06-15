@@ -8,3 +8,6 @@ Child
 
 `李玫瑾教授育儿视频讲座全集  <https://zhuanlan.zhihu.com/p/101174826>`_
 
+`李玫瑾教授视频合集（全68集） <https://www.bilibili.com/video/BV1UE411g7kv>`_
+
+
