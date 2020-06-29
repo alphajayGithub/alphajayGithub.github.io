@@ -40,7 +40,7 @@ QuickLink
     不是不可以，而是难度很可能不合适，效率低下，打击自信心，学没两天就放弃了。
 
 .. image:: pic/200329_englishLearn.jpg
-sdfYes, I know.Actually, I wanted to introduce myself.My personality is the.Bruster seemed to express myself.Okay, I want to try.
+
 
 * **精听**
 
