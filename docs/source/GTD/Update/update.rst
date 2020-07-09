@@ -261,6 +261,8 @@ https://www.zhihu.com/question/30178891/answer/990796714
 [学习观 思维导图+费曼技巧]有哪些让人欲罢不能的学习方法？ - YJango的回答 - 知乎
 https://www.zhihu.com/question/30178891/answer/515055357
 
+video【学习观0-5集合】为什么有人可以快速掌握一项知识，你却题海战术，为什么有人可以迅速找到解决方案，你却大脑空白
+https://www.bilibili.com/video/BV11t41127zA
 
 
 [学习的节奏]有哪些让人欲罢不能的学习方法？ - 恒变的回答 - 知乎
@@ -383,6 +385,12 @@ https://zhuanlan.zhihu.com/p/116120264
 
 `[精  一定要动手try一下]趋势交易初探——利用vnpy实现海龟交易策略 <https://zhuanlan.zhihu.com/p/32904807>`_
 
+
+你在国内亲眼见过自己一个人全职做 量化交易、并比同等相近能力的上班族赚得多很多的人吗？ - DWill的回答 - 知乎
+https://www.zhihu.com/question/360042171/answer/1021698922
+
+
+
 Python
 -------------
 python module link:
@@ -484,6 +492,9 @@ https://www.bilibili.com/video/BV1pJ411T74q/
 
 高数类UP：
 1.3Blue1Brown (动画演示数学）
+可能是世界上最好的线性代数教程 3Blue1Brown - 王晋东不在家的文章 - 知乎
+https://zhuanlan.zhihu.com/p/133315049
+
 2.宋浩老师官方（幽默有趣且详细）
 3.高数叔（偏重基础）
 英语类UP:
@@ -537,6 +548,19 @@ https://www.zhihu.com/question/23995189/answer/1160796300
 https://www.zhihu.com/question/30737325/answer/1281270338
 
 .. image:: https://pic2.zhimg.com/80/v2-26e03e24d67c0b6d89f3097af95ecc5f_1440w.jpg
+
+LeetCode 刷题隔天忘怎么办？ - 程序员吴师兄呀的回答 - 知乎
+https://www.zhihu.com/question/379857231/answer/1093860307
+
+LeetCode 刷题隔天忘怎么办？ - 九章算法的回答 - 知乎
+https://www.zhihu.com/question/379857231/answer/1317106713
+
+程序员在面试时是否会被要求手写代码？ - 九章算法的回答 - 知乎
+https://www.zhihu.com/question/23970518/answer/1303105651
+
+
+刷 leetcode 需要哪些基础？ - Edward Shi(CSON)的回答 - 知乎
+https://www.zhihu.com/question/30737325/answer/524120016
 
 
 LeetCode 刷题模板，最后成功拿到字节跳动 Offer！
@@ -734,7 +758,6 @@ https://www.zhihu.com/question/43607087/answer/1168763516
 https://zhuanlan.zhihu.com/p/101029165
 
 
-
 普通的程序员和大神级的程序员有什么区别？
 https://www.zhihu.com/question/59351128/answer/834831006
 
@@ -791,6 +814,7 @@ HomebrewCN：Homebrew的国内安装脚本, 告别龟速更新
 https://zhuanlan.zhihu.com/p/146001246
 
 
+
 Reference
 ------------------------
 
@@ -806,7 +830,7 @@ https://zhuanlan.zhihu.com/p/138265710
 
 .. image:: https://pic1.zhimg.com/80/v2-417c33686dd467f44cc2587dc161e0b4_720w.jpg
 
-** 健身
+* 健身
 
 每天坚持跳绳为什么不瘦？ - 叔贵K的回答 - 知乎
 https://www.zhihu.com/question/323557654/answer/1125117068
@@ -820,8 +844,14 @@ https://www.zhihu.com/question/323557654/answer/1150330033
 坚持每天跳绳一千下，一个月之后会怎么样？ - 冯乐乐的回答 - 知乎
 https://www.zhihu.com/question/300923595/answer/1140692493
 
+什么运动最消耗卡路里？ - 叔贵K的回答 - 知乎
+https://www.zhihu.com/question/58976440/answer/1158199325
 
-* 性格
+普通人能不能在不请私教的情况下三个月练出彭于晏的那种身材？ - 叔贵K的回答 - 知乎
+https://www.zhihu.com/question/388394435/answer/1176479824
+
+
+* 性格 情商
 
 [精]怎样成为一个沉稳的人？ - 果吉尔斯的回答 - 知乎
 https://www.zhihu.com/question/21821931/answer/1052801669
@@ -830,8 +860,24 @@ https://www.zhihu.com/question/21821931/answer/1052801669
 [精]有什么是你追了很多女生都失败后才知道的？ - 猫之初性本熊的回答 - 知乎
 https://www.zhihu.com/question/280952027/answer/487994975
 
-有哪些道理是你慢慢才明白的？ - 康健的回答 - 知乎
-https://www.zhihu.com/question/370392243/answer/1220875361
+有哪些是你慢慢想明白了的道理？ - 韩大叔的回答 - 知乎
+https://www.zhihu.com/question/350870631/answer/1160082084
+
+
+男孩子什么品质最吸引女生？ - 苏老师的回答 - 知乎
+https://www.zhihu.com/question/21217244/answer/714240841
+
+
+有没有可以使人醍醐灌顶的句子？ - 宏桑的回答 - 知乎
+https://www.zhihu.com/question/369784370/answer/1146714395
+
+
+如何变得会聊天，会交际，情商变高，把握好分寸？ - 郝开心的回答 - 知乎
+https://www.zhihu.com/question/58841188/answer/915543398
+
+如何变得会聊天，会交际，情商变高，把握好分寸？ - 童同的回答 - 知乎
+https://www.zhihu.com/question/58841188/answer/1178608661
+
 
 * PMP考试 Guide
 
@@ -855,16 +901,34 @@ https://zhuanlan.zhihu.com/p/83057300
 
 .. image:: https://pic1.zhimg.com/v2-4428e23353586faa8b7b00ca5110cd34_b.jpg
 
-* 跑步
+* 健身
 
 正确跑步姿势是怎样的？ - 笨zhu的回答 - 知乎
 https://www.zhihu.com/question/31089103/answer/848035952
 
 .. image:: https://pic2.zhimg.com/80/v2-23981b7056a30537ea1ed78452634888_720w.jpg?source=1940ef5c
 
+吃什么刷脂比较快？ - 健身老王的回答 - 知乎
+https://www.zhihu.com/question/350921567/answer/982253641
+
+科学减脂的核心是：高蛋白低碳水的饮食法，保证能量缺口，低升糖，全营养。
+
+.. image:: https://pic4.zhimg.com/80/v2-6da9dc1885e3f3595866bf49daa1bb15_1440w.jpg?source=1940ef5c
 
 
 * 学霸
+
+[精]真的！找到了爱上学习！的方法！ - 高冷冷的文章 - 知乎
+https://zhuanlan.zhihu.com/p/43383595
+
+
+接下来我说的这个方法，你可要记好了。它可以让你在一定程度上，喜欢上学习。 我没有夸张哦，是有理论支撑以及真实案例的哦。
+峰值：体验最高峰，包括正向和负向。
+终值：结束时的感觉。
+二者共同决定我们对某一事件的体验和记忆。
+
+无论是学习、工作、跑步、读书，还是与男/女朋友约会，或者任何事情！都可以巧妙利用这一定律，创造正向的峰值和终值体验，会让你对整件事情的记忆，变得愉悦起来。
+
 
 什么是费曼技巧？ - 格林先生说的回答 - 知乎
 https://www.zhihu.com/question/20585936/answer/731163030
@@ -908,8 +972,69 @@ https://www.zhihu.com/question/32976235/answer/246503118
 停止关于一切英语学习方法的寻找，现在开始学习！！！
 附带  初中高 各级别英语材料
 
+* 音乐
+
+如何记住吉他指板每个位置代表的音符？ - 毛社长的回答 - 知乎
+https://www.zhihu.com/question/350769241/answer/1140408635
+
+.. image:: https://pic1.zhimg.com/80/v2-18bbd51f31a80871eeebab46207209de_1440w.jpg?source=1940ef5c
+
+我想知道那些街头弹唱的吉他手 ，弹个十几首歌，不看谱怎么把那些歌的和弦都记住的？ - 哎呀君的回答 - 知乎
+https://www.zhihu.com/question/372967493/answer/1056206150
+
+
+* 艺术，文艺
+
+一个美术生想提高艺术眼界看哪些杂志，上哪些网站？ - 艺术作品集情报局的回答 - 知乎
+https://www.zhihu.com/question/23347627/answer/1282912583
+
+.. image:: https://pic4.zhimg.com/80/v2-8f60f3c9889e6405e04987007609d4ee_1440w.jpg?source=1940ef5c
+
 
 * 闲来无事
 
 有哪些能玩上一天的网站？ - 秦阳的回答 - 知乎
 https://www.zhihu.com/question/380741546/answer/1117980094
+
+人生不可错过的8部旅行纪录片 - 行影旅行的文章 - 知乎
+https://zhuanlan.zhihu.com/p/108926289
+
+这个让成年人也无法自拔的魔性日本儿童节目，简直就是照亮孩子的创造力之光 - 知乎
+https://zhuanlan.zhihu.com/p/113572769
+
+.. image:: https://pic1.zhimg.com/80/v2-ae8ff14a45ce9b348e963ef15a7ec26c_1440w.jpg
+
+有哪些值得一看再看的 TED 演讲？ - 黛西巫巫的回答 - 知乎
+https://www.zhihu.com/question/19609749/answer/1214998299
+
+.. image:: https://pic3.zhimg.com/80/v2-28b05f38ae73b37dc47280eaa259ba40_1440w.jpg?source=1940ef5c
+
+
+* 播音发声
+
+有哪些道理，是你在学习唱歌后，后悔没早点知道的？ - Chester的回答 - 知乎
+https://www.zhihu.com/question/399352816/answer/1267678879
+
+.. image:: https://pic2.zhimg.com/80/v2-dbbe243d6733e7b8c6cf03c273b10dae_1440w.jpg?source=1940ef5c
+
+* 断舍离 收纳
+
+有哪些收拾房间的诀窍？ - 闫小匠的回答 - 知乎
+https://www.zhihu.com/question/22420716/answer/1092855716
+
+.. image:: https://pic4.zhimg.com/80/v2-e31d037e76c5aa26df1d37a57e576e14_1440w.jpg?source=1940ef5c
+
+国内很多家庭不够整洁，深层次原因是什么？ - 收姐的回答 - 知乎
+https://www.zhihu.com/question/401778961/answer/1298637173
+
+没时间做整理？日本太太告诉你，每天15分钟就够了 ！ - 收纳王子的文章 - 知乎
+https://zhuanlan.zhihu.com/p/112131133
+
+
+* 育儿
+
+英文版动画片对幼儿英语启蒙有帮助吗？ - 米典的回答 - 知乎
+https://www.zhihu.com/question/344235418/answer/1176937028
+
+.. image:: https://pic3.zhimg.com/80/v2-92ddd9702925b20101cad3dcbe598493_1440w.jpg?source=1940ef5c
+
