@@ -789,3 +789,127 @@ UI开发
 
 HomebrewCN：Homebrew的国内安装脚本, 告别龟速更新
 https://zhuanlan.zhihu.com/p/146001246
+
+
+Reference
+------------------------
+
+* Tech Master
+
+GitHub超10万星自学宝典：8个月，从中年Web前端到亚马逊百万年薪软件工程师 | 中文版 - 量子位的文章 - 知乎
+https://zhuanlan.zhihu.com/p/138443693
+
+* 时间管理
+
+这6张思维导图，我差点不舍得分享出来 - 灵姗的文章 - 知乎
+https://zhuanlan.zhihu.com/p/138265710
+
+.. image:: https://pic1.zhimg.com/80/v2-417c33686dd467f44cc2587dc161e0b4_720w.jpg
+
+** 健身
+
+每天坚持跳绳为什么不瘦？ - 叔贵K的回答 - 知乎
+https://www.zhihu.com/question/323557654/answer/1125117068
+
+.. image:: https://pic4.zhimg.com/80/v2-6a3d29d379b7c69885845353b65432d2_720w.jpg?source=1940ef5c
+
+每天坚持跳绳为什么不瘦？ - 盐选健康必修课的回答 - 知乎
+https://www.zhihu.com/question/323557654/answer/1150330033
+
+
+坚持每天跳绳一千下，一个月之后会怎么样？ - 冯乐乐的回答 - 知乎
+https://www.zhihu.com/question/300923595/answer/1140692493
+
+
+* 性格
+
+[精]怎样成为一个沉稳的人？ - 果吉尔斯的回答 - 知乎
+https://www.zhihu.com/question/21821931/answer/1052801669
+
+
+[精]有什么是你追了很多女生都失败后才知道的？ - 猫之初性本熊的回答 - 知乎
+https://www.zhihu.com/question/280952027/answer/487994975
+
+有哪些道理是你慢慢才明白的？ - 康健的回答 - 知乎
+https://www.zhihu.com/question/370392243/answer/1220875361
+
+* PMP考试 Guide
+
+在国内 PMP 有多少含金量？ - Hellen的回答 - 知乎
+https://www.zhihu.com/question/19777015/answer/381462838
+
+在国内 PMP 有多少含金量？ - 优积谷的回答 - 知乎
+https://www.zhihu.com/question/19777015/answer/433504807
+
+
+* Ipad+pencil学习力
+
+Apple Pencil 对于大学生来说价值有多大？ - 暴富助手-阿琳的回答 - 知乎
+https://www.zhihu.com/question/41271462/answer/846212389
+
+推荐使用 Procreate 进行玩耍。于是你的pencil，就突然变成了利器！！！
+
+
+如何装备一个学术型的 iPad？ - 郭囧囧的文章 - 知乎
+https://zhuanlan.zhihu.com/p/83057300
+
+.. image:: https://pic1.zhimg.com/v2-4428e23353586faa8b7b00ca5110cd34_b.jpg
+
+* 跑步
+
+正确跑步姿势是怎样的？ - 笨zhu的回答 - 知乎
+https://www.zhihu.com/question/31089103/answer/848035952
+
+.. image:: https://pic2.zhimg.com/80/v2-23981b7056a30537ea1ed78452634888_720w.jpg?source=1940ef5c
+
+
+
+* 学霸
+
+什么是费曼技巧？ - 格林先生说的回答 - 知乎
+https://www.zhihu.com/question/20585936/answer/731163030
+
+.. image:: https://pic3.zhimg.com/80/v2-f15b379224a4b53416b824617ce848c3_720w.jpg?source=1940ef5c
+
+
+什么是费曼技巧？
+费曼技巧是一种顶级的学习方法，它能帮助你真正理解一个新知识，因为它揭露了学习的本质。
+所谓的费曼学习法就是当你学习了一个新知识后，想象自己是一个老师：
+用简单的话，用自己的话、浅显直白的话复述表达复杂深奥的知识，最好不要用行业术语，让非行业内的人也能听懂，为了达到这种效果，最好想象你是在给一个80多岁或者8岁的小孩子去讲，甚至他们都能听懂。
+总之一句话：用大白话去解释新知识。
+
+
+能不能推荐几本思考思维方面的书籍？ - 叶修的回答 - 知乎
+https://www.zhihu.com/question/26161562/answer/482391185
+
+.. image:: https://pic3.zhimg.com/80/v2-2f40023c93e0b54d1860dcd6d734b511_720w.jpg?source=1940ef5c
+
+
+学霸学累了会干什么？ - 黛西巫巫的回答 - 知乎
+https://www.zhihu.com/question/311425277/answer/1183071150
+
+.. image:: https://pic2.zhimg.com/80/v2-474a83f08faba53db81862eb066e825a_720w.jpg?source=1940ef5c
+
+
+学霸学累了会干什么？ - Zauber皇的回答 - 知乎
+https://www.zhihu.com/question/311425277/answer/1160216425
+
+.. image:: https://pic4.zhimg.com/80/v2-0c45e9d1d07e9e6b1c35a859d080cbdb_720w.jpg
+
+
+我忽然发现这和学习中的我出奇的相似，没有了杀英雄的欲望，不会盲目向前冲后被砍，反而有所收获。也许可以一言以蔽之:无欲一身轻吧。
+高中时我们在象牙塔尖呆惯了，不满足自己已经获得的，一旦掉下象牙塔，就有迫切的欲望想回去，甚至有强烈的欲望把别人挤下去，然后会不由自主的焦虑，躁动，但是象牙塔尖的空间是有限的，容不下所有的人，那些曾经上来过，又掉下去再没能够上来的人，就陷入了恶性死循环，越焦虑越糟，越糟越焦虑，如果不主动break,那么只能被恶性循环消耗殆尽，放弃曾经的欲望，因为那只适用于曾经，适当降低目标，给自己一个台阶下，把学习这个过程做好了，做充实了，不要在做的时候老想着结果，为自己做好最坏的打算，踏踏实实走完就好。其实最终证明，这样做的结果并不会太差。放下欲望，抛弃给自己施加的心里负担，也许阴霾就会散去，迎来一片晴天。   最后，无论如何，活着最重要！
+
+
+恶魔的奶爸的英语学习方法真的有用吗？ - LiC Wen的回答 - 知乎
+https://www.zhihu.com/question/32976235/answer/246503118
+
+不要总是想找到最完美的英语学习方法，其实找到一个比较不错的，一直坚持就可以了。
+停止关于一切英语学习方法的寻找，现在开始学习！！！
+附带  初中高 各级别英语材料
+
+
+* 闲来无事
+
+有哪些能玩上一天的网站？ - 秦阳的回答 - 知乎
+https://www.zhihu.com/question/380741546/answer/1117980094
