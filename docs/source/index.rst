@@ -11,14 +11,12 @@ Welcome to cleanMind！
    :caption: CONTENT
 
 
+   GTD
    Tech
    Trade
-   Health
-   GTD
    Family
-   Readme
-
-
+   Health
+   Reference
 
 
 
