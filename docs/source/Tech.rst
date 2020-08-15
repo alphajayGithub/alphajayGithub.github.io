@@ -6,5 +6,6 @@ Tech
 .. toctree::
     :maxdepth: 2
 
-    Tech/coding_*.rst
-    Tech/being_*.rst
+    Tech/coding_ideas.rst
+    Tech/coding_tools.rst
+    Tech/being_professional.rst

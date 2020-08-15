@@ -10,3 +10,4 @@ GTD
     GTD/gtd_todo.rst
     GTD/gtd_english.rst
     GTD/gtd_schedule.rst
+    GTD/gtd_update.rst
