@@ -544,6 +544,20 @@ https://www.zhihu.com/question/394945080/answer/1238104781
 https://www.zhihu.com/question/23995189/answer/1160796300
 
 
+leetcode 力扣刷题 1 到 300 的感受
+https://zhuanlan.zhihu.com/p/141518463
+
+如何高效使用力扣（LeetCode）
+https://zhuanlan.zhihu.com/p/38005681
+
+力扣上那些让人虎躯一震的题解
+https://zhuanlan.zhihu.com/p/56466360
+
+拿到腾讯字节快手offer后，他的LeetCode刷题经验GitHub获1300星
+https://zhuanlan.zhihu.com/p/181450845
+
+
+
 [精]刷 leetcode 需要哪些基础？ - 九章算法的回答 - 知乎
 https://www.zhihu.com/question/30737325/answer/1281270338
 
