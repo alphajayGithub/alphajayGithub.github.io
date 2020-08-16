@@ -19,7 +19,6 @@ Welcome to cleanMind！
    Reference
 
 
-
 Indices and tables
 ==================
 

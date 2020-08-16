@@ -6,17 +6,17 @@ Data交易数据
 
 内盘期货
 -----------------
-中国金融期货交易所 `合约规格 <http://www.cffex.com.cn/jscs/>`_
+中国金融期货交易所 `CFFEX合约规格 <http://www.cffex.com.cn/jscs/>`_
 
-上海国际能源交易中心 `合约规格 <http://www.ine.cn/bourseService/summary/?name=tradingdaily>`_
+上海国际能源交易中心 `INE合约规格 <http://www.ine.cn/bourseService/summary/?name=tradingdaily>`_
 
-上海期货交易所 `合约规格 <http://www.shfe.com.cn/bourseService/businessdata/summaryinquiry/>`_
+上海期货交易所 `SHFE合约规格 <http://www.shfe.com.cn/bourseService/businessdata/summaryinquiry/>`_
 
-大连商品交易所 `合约规格 <http://www.dce.com.cn/dalianshangpin/yw/fw/ywcs/jycs/rjycs/index.html>`_
+大连商品交易所 `DCE合约规格 <http://www.dce.com.cn/dalianshangpin/yw/fw/ywcs/jycs/rjycs/index.html>`_
 
-郑州商品交易所 `合约规格 <http://www.czce.com.cn/cn/jysj/jscs/H770303index_1.htm>`_
+郑州商品交易所 `CZCE合约规格 <http://www.czce.com.cn/cn/jysj/jscs/H770303index_1.htm>`_
 
-上海黄金交易所 `合约规格 <https://www.sge.com.cn/sjzx/yshqbg>`_
+上海黄金交易所 `SGE合约规格 <https://www.sge.com.cn/sjzx/yshqbg>`_
 
 
 内盘证券
