@@ -5,13 +5,13 @@ layout: default
 # QuickLink
 ## Project
 
-Docs online --> [CleanMind](http://docs.alphajay.online "Clean Mind")
+[Docs](http://docs.alphajay.online) online --> [CleanMind](http://gtd.alphajay.online "Clean Mind")
 
-Notes online --> [GitBook](http://notes.alphajay.online "Gitbook Notes")
+[Notes](http://notes.alphajay.online) online --> [GitBook](http://alphajay.gitbook.io "Gitbook Notes")
 
 Quant resource --> [Quant](./MDs/Quant.md)
 
-## Demo
+## Dem
 
 [MarkdownEx](./MDs/README.md)
 [ArchitectTheme](./MDs/Architect.md)
@@ -26,7 +26,7 @@ Quant resource --> [Quant](./MDs/Quant.md)
 
 - Guide - reST [reStructuredText Primer](http://www.sphinx-doc.org/en/stable/rest.html "reStructuredTextPrimer insphinx-doc.org")
 
-- Guide - pUML [PlantUML_Language_Referenc](http://plantuml.com/PlantUML_Language_Reference_Guide.pdf "PlantUML_Language_Reference_Guide.pdf")
+- Guide - pUML [PlantUML_Language_Reference](http://plantuml.com/PlantUML_Language_Reference_Guide.pdf "PlantUML_Language_Reference_Guide.pdf")
 
 
 
