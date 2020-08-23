@@ -13,8 +13,15 @@ TODOList:
 ipad成为生产力工具
 
 
-你在B站关注了哪些「惊为天人」的UP主？ - 新媒虎的回答 - 知乎
-https://www.zhihu.com/question/291506148/answer/1229990886
+* 公众号阅读
+
+看懂龙头股
+xx早餐 and 涨停板复盘  -> 找复盘公众号  每天看盘 知道哪些票 不管实盘还是模拟盘 通过持续打板跟紧市场
+
+TODO: 临时方案:  公众号阅读 用ipad 微信读书
+
+
+
 
 
 生产力
@@ -32,29 +39,42 @@ https://www.zhihu.com/question/35119172/answer/236683730
 医学僧 用onenote做的笔记
 
 
+你在B站关注了哪些「惊为天人」的UP主？ - 新媒虎的回答 - 知乎
+https://www.zhihu.com/question/291506148/answer/1229990886
+
+
 金融
 ------------------
 [精]一文看懂财务三张表
 https://mp.weixin.qq.com/s/hUZDpc6vJ57DRoiQK3_hcQ
 
-* 公众号阅读
 
-看懂龙头股
-xx早餐 and 涨停板复盘  -> 找复盘公众号  每天看盘 知道哪些票 不管实盘还是模拟盘 通过持续打板跟紧市场
+金融学专业毕业后一般都从事什么工作？ - 投行小布的回答 - 知乎
+https://www.zhihu.com/question/307013935/answer/1245494183
+https://www.zhihu.com/question/41088875/answer/1268244571
 
-TODO: 临时方案:  公众号阅读 用ipad 微信读书
+家境贫寒能否选择金融专业？ - 投行小布的回答 - 知乎
+https://www.zhihu.com/question/272012978/answer/1289081324
+
+如何整合资源？
+1、提升你的可交换价值
+稳定的关系多数是资源互换的前提上。
+2、擅长组局
+组局是一种能力，是一种让自己成为圈子核心的途径，如果你可以搭建一个人脉交流的平台，那日后所有的资源都会向你靠拢。
+3、可以平衡每个人的核心需求
+有些大佬之所以可以成为大佬，是因为可以满足每个人的核心利益。
+4、做长期主义者
+与大佬交往，要做个长期主义者，切不可贪图眼前利益，大佬最怕的就是带有目的性的交往，如果套近乎只是想换取利益，那大佬会树起心理的防线。
 
 
+Programming 应聘
+-----------------------------------
+Linux 下利用 Vim 搭建 C/C++ 开发环境?
+https://www.zhihu.com/question/47691414/answer/373700711
+https://zhuanlan.zhihu.com/p/36279445
 
-Reference - Links
-------------------
-医学微视 - 各种专家解释(看看专家怎么说)
-https://www.mvyxws.com/
-
-alternativeto
-https://alternativeto.net/
-正在找免费的来替代收费软件?
-帮你省钱的黑科技网站，找到市面上几乎所有付费软件的替代软件！
+四大 HR 眼中的好简历是什么样子的？ - Mandy Liu的回答 - 知乎
+https://www.zhihu.com/question/270327306/answer/1392030593
 
 抑郁症
 ------------------------------------
@@ -607,6 +627,9 @@ https://zhuanlan.zhihu.com/p/149511246
 通过这几大篇章，你可以学到关于算法入门、二叉树、链表、二分搜索、排序算法、递归思维、回溯法等算法知识。
 项目发布后到现在已经过去四五天时间了，目前其 GitHub Star 数已累积突破 1000，此刻的你如何还陷在 LeetCode 泥潭中，不妨试下这个项目吧。
 
+程序员在线动画学习常用算法的良心网站
+https://www.jianshu.com/p/7fc40edeede8
+https://github.com/algorithm-visualizer/algorithm-visualizer
 
 
 精 -> 好好看看
@@ -660,6 +683,11 @@ https://www.zhihu.com/question/356351510/answer/1277685442
 你的编程能力从什么时候开始突飞猛进？ - 口天师兄的回答 - 知乎
 https://www.zhihu.com/question/356351510/answer/913928066
 
+
+我在知乎学数学 - z.defying的文章 - 知乎
+https://zhuanlan.zhihu.com/p/105704401
+对于单个不懂的知识点，我就经常在知乎搜各个大佬的回答，看完如醍醐灌顶，令人恍然大悟，要是当初学数学也经常逛逛知乎就好了。
+所以我就整理了一些知乎上的一些经典回答，包含线性代数，微积分和概率统计三门课程。各个知识点的顺序我尽量做到和书的目录对应，大家快去给各位大佬点赞吧。
 
 
 如何开始算法之路：
@@ -779,6 +807,10 @@ Refactoring Guru 上面共拥有 22 种设计模式及 8 条原则的详细讲�
 困扰了已久的TCP/IP 协议，终于有人讲的明明白白，太强了
 https://zhuanlan.zhihu.com/p/143406591
 
+装潢 家电
+-------------
+FD烤箱
+https://mp.weixin.qq.com/s/TsFcSLUrt2WUVXXrE5TDTQ
 
 其它
 ----------------
@@ -854,6 +886,19 @@ UI开发
 
 HomebrewCN：Homebrew的国内安装脚本, 告别龟速更新
 https://zhuanlan.zhihu.com/p/146001246
+
+
+从零开始禅修的境界
+https://zhuanlan.zhihu.com/p/144642099
+
+
+医学微视 - 各种专家解释(看看专家怎么说)
+https://www.mvyxws.com/
+
+alternativeto
+https://alternativeto.net/
+正在找免费的来替代收费软件?
+帮你省钱的黑科技网站，找到市面上几乎所有付费软件的替代软件！
 
 
 
@@ -1041,6 +1086,9 @@ https://www.zhihu.com/question/350769241/answer/1140408635
 我想知道那些街头弹唱的吉他手 ，弹个十几首歌，不看谱怎么把那些歌的和弦都记住的？ - 哎呀君的回答 - 知乎
 https://www.zhihu.com/question/372967493/answer/1056206150
 
+
+嘶吼练习方法 - 小闪的回答 - 知乎
+https://www.zhihu.com/question/409441750/answer/1367890626
 
 * 艺术，文艺
 
