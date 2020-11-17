@@ -12,11 +12,21 @@ Topic
     https://www.zhihu.com/question/308556070/answer/570115481
     https://www.zhihu.com/question/405031080/answer/1363800744
     https://www.zhihu.com/question/337217828/answer/1115738893
+    https://www.zhihu.com/question/405099589/answer/1319799589
 
+* MIDI
+
+`辞职学编曲 <https://www.zhihu.com/question/429313109/answer/1572623437>`_
+
+`MIDI键盘选购指南 <https://zhuanlan.zhihu.com/p/260932380>`_
+
+`如何自学编曲？ <https://www.zhihu.com/question/21085429/answer/454900060>`_
 
 * quant量化
 
 `JQData本地量化数据说明书 <https://www.joinquant.com/help/api/help?name=JQData>`_
+
+`JQData | 教程集合帖 <https://www.joinquant.com/view/community/detail/15278>`_
 
 `建自己的业务体系：商业软件、开源软件、自主开发？ <https://www.zhihu.com/question/326160252>`_
 
