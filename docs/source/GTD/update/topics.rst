@@ -16,11 +16,19 @@ Topic
 
 * MIDI
 
+`newBand - 搭建一个牛班同款的直播间需要花多少钱？ <https://mp.weixin.qq.com/s/pSFGCyYJrUSa2zw891qMrg>`_
+
 `辞职学编曲 <https://www.zhihu.com/question/429313109/answer/1572623437>`_
 
 `MIDI键盘选购指南 <https://zhuanlan.zhihu.com/p/260932380>`_
 
 `如何自学编曲？ <https://www.zhihu.com/question/21085429/answer/454900060>`_
+
+`免费开源，智弦（SmartChordGen）软件GitHub发布！！ <https://zhuanlan.zhihu.com/p/165183861>`_
+
+* 整理
+
+`医学狗的笔记,建立框架和使用 <https://www.zhihu.com/question/57139472/answer/1072229486>`_
 
 * quant量化
 
@@ -93,6 +101,10 @@ Topic
 
 `干货，杀死拖延症的最快方法！ <https://www.zhihu.com/zvideo/1302695174066741248>`_
 
+
+* Tech技术
+
+`一口气搞懂「文件系统」，就靠这 25 张图了 <https://zhuanlan.zhihu.com/p/191266693>`_
 
 * 算法
 
