@@ -2,6 +2,12 @@
 Topic
 ========================================
 
+*QuickLink
+
+`WikiHow <https://wikihow.com/>`_
+
+`AllToAll <https://www.alltoall.net/>`_
+
 * 高依恋回避
 
 `话题：高依恋回避 <https://www.zhihu.com/topic/20757650>`_
@@ -32,6 +38,8 @@ Topic
 
 * quant量化
 
+`有哪些你看了以后大呼过瘾的交易类书籍？ <https://www.zhihu.com/question/428833304/answer/1569864231>`_
+
 `JQData本地量化数据说明书 <https://www.joinquant.com/help/api/help?name=JQData>`_
 
 `JQData | 教程集合帖 <https://www.joinquant.com/view/community/detail/15278>`_
@@ -42,7 +50,6 @@ Topic
     让我们重新来审视一下量化的业务体系
 
     .. image:: https://pic1.zhimg.com/80/v2-f77a25457048cb3233d6ec04dbaa5d25_720w.jpg?source=1940ef5c
-
 
     量化的流程里面
 
@@ -60,6 +67,7 @@ Topic
 
     .. image:: https://pic3.zhimg.com/80/v2-281b9fbadceb105a1a5a902e7271f011_720w.jpg?source=1940ef5c
 
+`系列 - 35岁程序员的退路：量化投资学习 <https://www.zhihu.com/people/lunafrost/posts>`_
 
 
 `vn.py项目 <https://zhuanlan.zhihu.com/p/135944131>`_
@@ -112,6 +120,10 @@ Topic
 
 `【精】Github热门项目！算法面试疯传！ <https://zhuanlan.zhihu.com/p/267219160>`_
 
+* linux内核
+
+`大牛的学习笔记-深入理解Linux内核(完整版) <https://zhuanlan.zhihu.com/p/257304504>`_
+
 * 脱口秀
 
 `如何评价《手把手教你玩脱口秀》这本书？ <https://www.zhihu.com/question/265493179>`_
@@ -119,3 +131,14 @@ Topic
 * 经济学
 
 `系统自学经济学？ <https://www.zhihu.com/question/26733648/answer/1532027746>`_
+
+
+* 烹饪 美食
+
+`是什么颠覆了你对「国货」的认知？高校美食大全 <https://www.zhihu.com/question/393795608/answer/1594735797>`_
+
+`相见恨晚的 方便速食 ？ <https://www.zhihu.com/question/299045761/answer/1057369367>`_
+
+* Funny 趣味
+
+`婚恋指南-有什么是你追了很多女生都失败后才知道的？ <https://www.zhihu.com/question/280952027/answer/1504476579>`_
