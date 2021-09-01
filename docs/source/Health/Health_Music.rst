@@ -3,6 +3,15 @@
 Music音乐
 ========================================
 
+General乐理
+----------------
+
+视唱练耳:
+`Ear training - tonedear.com - exercises <https://tonedear.com/>`_
+
+.. image:: pic/music_210901_earTraningExercise.png
+
+
 Guitar吉他
 ----------------
 
