@@ -63,7 +63,7 @@ GTD框架
 GTD参考
 --------
 
-.. image:: pic/200328_gtd.jpg
+.. image:: pic/200328_GTD.jpg
 
 **我的标签分类**
 
