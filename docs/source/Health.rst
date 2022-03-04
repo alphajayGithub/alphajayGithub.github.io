@@ -9,6 +9,7 @@ Health
     Health/Health_Music.rst
     Health/Health_Run.rst
     Health/Health_Ride.rst
+    Health/Health_Triathlon.rst
     Health/Health_Gym.rst
 
 
