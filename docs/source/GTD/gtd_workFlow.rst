@@ -126,3 +126,12 @@ Link:
 `视频讲解: todoist使用 <https://www.bilibili.com/video/av70161321/>`_
 
 
+learning 学习力
+------------------------
+`超强的学习能力是怎样练就的？ <https://www.zhihu.com/question/35103080/answer/633990519>`_
+
+.. image:: pic/200329_学习力.jpg
+
+.. image:: resource/200328_LearningTheory.png
+
+.. image:: pic/200329_learningTheory.jpg
