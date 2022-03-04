@@ -14,7 +14,6 @@ Welcome to cleanMind！
    GTD
    Tech
    Trade
-   Family
    Health
    Reference
 
