@@ -7,5 +7,3 @@ Quant宽客
     :maxdepth: 2
 
     quant/trade_quantLink.rst
-    quant/trade_bigQuant.rst
-    quant/trade_quantPS.rst

@@ -106,7 +106,8 @@ Note: 老虎期货账户默认支持期货/期货期权/股票期权, 通过IB�
     (6)此前空仓状态,同一支股票,周一当天买入500股,周二当天卖出500股,周二稍晚些时候买入500股,算几次 T+0 ?　　
     答案：0次
 
-关于DayTrader：
+DayTrader与交易流派
+--------------------
 
     `一个职业Day Trader的感受  <http://www.numgame.com/c_day_trader.html>`_
     `为什么我不做day trade和 短线  <http://8ok.com/bbs/200905/tzlc/3891.shtml>`_
