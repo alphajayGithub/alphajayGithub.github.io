@@ -2,19 +2,15 @@
 layout: default
 ---
 
-# QuickLink
+# QuickLinks
 ## Project
 
-[Docs](http://docs.alphajay.online) online --> [CleanMind](http://gtd.alphajay.online "Clean Mind")
+[CleanMind](http://gtd.alphajay.online "Clean Mind")： [Docs](http://docs.alphajay.online) online
 
-[Notes](http://notes.alphajay.online) online --> [GitBook](http://alphajay.gitbook.io "Gitbook Notes")
+[GitBook](http://alphajay.gitbook.io "Gitbook Notes")： [Notes](http://notes.alphajay.online) online
 
-Quant resource --> [Quant](./MDs/Quant.md)
+[Quant](./MDs/Quant.md)： TODO
 
-## Dem
-
-[MarkdownEx](./MDs/README.md)
-[ArchitectTheme](./MDs/Architect.md)
 
 # Reference
 
@@ -28,7 +24,10 @@ Quant resource --> [Quant](./MDs/Quant.md)
 
 - Guide - pUML [PlantUML_Language_Reference](http://plantuml.com/PlantUML_Language_Reference_Guide.pdf "PlantUML_Language_Reference_Guide.pdf")
 
+- Markdown Demo
 
+  - [MarkdownEx](./MDs/README.md)
+  - [ArchitectTheme](./MDs/Architect.md)
 
 ```
 © copyRight 2020, yueshen
