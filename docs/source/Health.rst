@@ -11,5 +11,6 @@ Health
     Health/Health_Ride.rst
     Health/Health_Triathlon.rst
     Health/Health_Gym.rst
+    Health/Health_Gym_XGames.rst
 
 
